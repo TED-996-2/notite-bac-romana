@@ -46,6 +46,3 @@ George Călinescu, Enigma Otiliei
 	  => **elemente balzaciene**
 * redescompunere **polemică** a balzacianismului => "balzacianism fără Balzac"
 	* polemică <= caracteristica critică a autorului
-
-
-
