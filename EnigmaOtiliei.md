@@ -2,7 +2,7 @@ George Călinescu, Enigma Otiliei
 ===
 
 * 1938, perioada interbelică
-* Roman **realist-balzacian**
+* roman **realist-balzacian**
 
 ## Contextualizare
 
@@ -12,17 +12,20 @@ George Călinescu, Enigma Otiliei
 ## Tema
 
 * specifică prozei balzaciene: fundalul social din București, începutul sec. 20)
+* prezintă istoria moștenirii lui Costache Giurgiuveanu și maturizarea lui Felix Sima
 * subordonată temei: tema paternității (specific balzaciană)
 
 ## Titlu
 
-* Titlu inițial: *Părinții Otiliei* => tema balzaciană a paternității
-* Titlu actual => personalitatea eroinei, enigmatică și contradictorie
+* titlu inițial: *Părinții Otiliei* => tema balzaciană a paternității
+* titlu actual => personalitatea eroinei, enigmatică și contradictorie
 
 ## Compoziție și structură
 
-* Compoziție clasică: 20 capitole
-* Acțiune realizată prin înlănțuire (specific prozei tradiționale)
+* compoziție clasică: 20 capitole
+* mai multe planuri narative, urmărind destinul personajelor
+* acțiune realizată prin înlănțuire (specific prozei tradiționale)
+* narator **omniscient**, **omniprezent**
 
 ### Incipit
 
@@ -46,3 +49,23 @@ George Călinescu, Enigma Otiliei
 	  => **elemente balzaciene**
 * redescompunere **polemică** a balzacianismului => "balzacianism fără Balzac"
 	* polemică <= caracteristica critică a autorului
+
+### Final
+
+* zece ani mai târziu, *după război*
+* Felix: "Aici nu stă nimeni", reluând replica de început a lui Moș Costache
+* => relație de **simetrie**
+
+### Conflicte
+
+* *conflictul succesoral dublu* + *conflictul erotic* (Felix - Pascalopol)
+
+### Acțiunea
+
+* 2 planuri: **istoria moștenirii**, **maturizarea lui Felix**
+* maturizare => *bildungsroman*
+
+### Personaje
+
+* descrise prin mediul în care trăiesc și fizionomia acestora => trăsăturile de caracter (**tehnică balzciană**)
+
