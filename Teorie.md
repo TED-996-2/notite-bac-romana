@@ -8,7 +8,7 @@
 
 * **Funcțiile comunicării**:
 	* *referențială*: transmite informații
-	* *emotivă/expresivă*: valorizează emițătorul <=> sentimente
+	* *emotivă/expresivă*: valorizează emițătorul ⇔ sentimente
 	* *conativă / de apel*: implicarea receptorului (ex: "tu ce zici?")
 	* *poetică*: nuanțarea mesajului (ex: figuri de stil, umor, etc)
 	* *fatică*: verificarea **canalului** de comunicare (ex: "Alo?")
@@ -17,6 +17,6 @@
 * Comentarii:
 	1. idee poetică
 	2. relația ideii poetice cu mijloacele artistice (2-3 figuri de stil, 2 imagini artistice)
-	3. +- eul liric: mărci, atitudini, sentimente, etc.
+	3. ± eul liric: mărci, atitudini, sentimente, etc.
 
 	

@@ -6,7 +6,7 @@ George Călinescu, Enigma Otiliei
 
 ## Contextualizare
 
-* urmează formula realist-tradițională într-o epocă dominată de proza moderă analitică: (Călinescu: "Realismul și balzacianismul reprezintă un mod de a crea etern și durabil" <=> literatura trebuie să redea **viața**)
+* urmează formula realist-tradițională într-o epocă dominată de proza moderă analitică: (Călinescu: "Realismul și balzacianismul reprezintă un mod de a crea etern și durabil" ⇔ literatura trebuie să redea **viața**)
 * un roman *de critic*
 
 ## Tema
@@ -17,8 +17,8 @@ George Călinescu, Enigma Otiliei
 
 ## Titlu
 
-* titlu inițial: *Părinții Otiliei* => tema balzaciană a paternității
-* titlu actual => personalitatea eroinei, enigmatică și contradictorie
+* titlu inițial: *Părinții Otiliei* ⇒ tema balzaciană a paternității
+* titlu actual ⇒ personalitatea eroinei, enigmatică și contradictorie
 
 ## Compoziție și structură
 
@@ -29,32 +29,32 @@ George Călinescu, Enigma Otiliei
 
 ### Incipit
 
-* Incipit dezvoltat <=> "*disipat*"
+* Incipit dezvoltat ⇔ "*disipat*"
 * 3 nuclee:
 	1. drumul lui Felix pe strada Antim
 	2. întâlnirea cu moș Costache (sub semnul absurdului - "nu stă nimeni aici")
 	3. întâlnirea cu personajele din casa lui Moș Costache
-* observații cu detalii bogate => "ochiul unui estet" + subiectivitatea naratorului
-* detalii arhitectonice și vestimentare => configurarea cadrului, prezentarea personajelor
-* => descriere psihologică / simbolică
-* => **restrângerea treptată a cadrului** - oraș -> stradă -> casa -> **personaje**
+* observații cu detalii bogate ⇒ "ochiul unui estet" + subiectivitatea naratorului
+* detalii arhitectonice și vestimentare ⇒ configurarea cadrului, prezentarea personajelor
+* ⇒ descriere psihologică / simbolică
+* ⇒ **restrângerea treptată a cadrului** - oraș → stradă → casa → **personaje**
 
 #### Ochiul estetului:
 
 * elemente de roman balzacian:
-	* caracteriul situat al acțiunii => familiarizarea cu mediul
-	  => imaginea societății bucureștene
+	* caracteriul situat al acțiunii ⇒ familiarizarea cu mediul
+	  ⇒ imaginea societății bucureștene
 	* "cu ajutorul străzilor, caselor, mobilelor, cunoaștem oamenii"
-	  => reconstituirea departe -> aproape; afară -> înăuntru
-	  => **elemente balzaciene**
-* redescompunere **polemică** a balzacianismului => "balzacianism fără Balzac"
-	* polemică <= caracteristica critică a autorului
+	  ⇒ reconstituirea departe → aproape; afară → înăuntru
+	  ⇒ **elemente balzaciene**
+* redescompunere **polemică** a balzacianismului ⇒ "balzacianism fără Balzac"
+	* polemică ⇐ caracteristica critică a autorului
 
 ### Final
 
 * zece ani mai târziu, *după război*
 * Felix: "Aici nu stă nimeni", reluând replica de început a lui Moș Costache
-* => relație de **simetrie**
+* ⇒ relație de **simetrie**
 
 ### Conflicte
 
@@ -63,9 +63,9 @@ George Călinescu, Enigma Otiliei
 ### Acțiunea
 
 * 2 planuri: **istoria moștenirii**, **maturizarea lui Felix**
-* maturizare => *bildungsroman*
+* maturizare ⇒ *bildungsroman*
 
 ### Personaje
 
-* descrise prin mediul în care trăiesc și fizionomia acestora => trăsăturile de caracter (**tehnică balzciană**)
+* descrise prin mediul în care trăiesc și fizionomia acestora ⇒ trăsăturile de caracter (**tehnică balzciană**)
 
