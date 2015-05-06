@@ -37,7 +37,6 @@ George Călinescu, Enigma Otiliei
 * detalii arhitectonice și vestimentare ⇒ configurarea cadrului, prezentarea personajelor
 * ⇒ descriere psihologică / simbolică
 * ⇒ **restrângerea treptată a cadrului** - oraș → stradă → casa → **personaje**
-
 * elemente de roman balzacian:
 	* caracteriul situat al acțiunii ⇒ familiarizarea cu mediul
 	  ⇒ imaginea societății bucureștene
@@ -91,7 +90,6 @@ George Călinescu, Enigma Otiliei
 * provine din Iași
 * **personaj-reflector** (personajul este un mijloc prin care se transmit informațiile - ex: descrierea din incipit)
 * **personaj actor**
-
 * inițial: motivul străinului (pretext pentru analiza socială) + cod moral și statut social superior
 * a doua ipostază: inițierea erotică
 	* suferă din cauza inconsecvenței și labilității afective ale Otiliei ⇒ oscilație încrerede ↔ dezamăgire; speranță ↔ deznădejde
@@ -105,7 +103,6 @@ George Călinescu, Enigma Otiliei
 * personaj **eponim**
 * personalitate în formare
 * ideal de feminitate atât pentru Felix cât și pentru Pascalopol
-
 * element definitoriu al personalității: misterul
 * descrierea spațiului ⇒ preocupări artistice, naturalețe, cochetărie, curiozitate, atracție spre nou, neliniște, nerăbdare
 * portret fizic ⇒ vârsta, frumusețea, eleganța, delicatețea ⇒ antiteză cu Aurica
