@@ -94,7 +94,7 @@ George Călinescu, Enigma Otiliei
 
 * inițial: motivul străinului (pretext pentru analiza socială) + cod moral și statut social superior
 * a doua ipostază: inițierea erotică
-	* suferă din cauza inconsecvenței și labilității afective ale Otiliei ⇒ oscilație încrerede <→ dezamăgire; speranță <→ deznădejde
+	* suferă din cauza inconsecvenței și labilității afective ale Otiliei ⇒ oscilație încrerede ↔ dezamăgire; speranță ↔ deznădejde
 	* studiul rămâne o pasiune superioară iubirii ⇒ la sfârșitul acesteia, Felix își domină suferința și deziluzia
 * ipostaza finală: personaj matur în urma experiențelor
 	* înțelege vulnerabilitatea iubirii față de degradarea lumii
