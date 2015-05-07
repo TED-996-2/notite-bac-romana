@@ -1,8 +1,9 @@
 Marin Preda, Moromeții
 ===
 
-* roman postbelic
+* roman postbelic (1955, 1967)
 * roman realist **de factură modernă**
+* sfârșitul *romanului doric*
 
 ## Contextualizare
 
@@ -11,7 +12,9 @@ Marin Preda, Moromeții
 
 ## Tema
 
-* viața socială din satul românesc în Câmpia Dunării înainte de cel de-al Doilea Război Mondial
+* viața socială din satul românesc în Câmpia Dunării înainte și după de cel de-al Doilea Război Mondial
+* **tema timpului**
+* + relația dintre individ și istorie
 
 ## Titlu
 
@@ -33,10 +36,12 @@ Marin Preda, Moromeții
 			* scena secerișului
 	* *tehnica scenei* + tenhica anticipativă
 		* ⇒ impresie de viață autentică ⇒ **drama lui Moromete**
+	* pe parcursul verii, cu 3 ani înainte de WW2
 2. volumul II:
 	* **volumul fiilor**
-	* se petrece la 25 (?) de ani după primul volum
+	* se petrece pe parcursul a 25 de ani după primul volum
 	* 5 părți
+	* crește drama personajelor
 	* imagini eterogene
 	* ritm alert ⇒ schimbări rapide
 	* ⇒ satul devine o lume nouă, neașezată ⇒ **drama satului**
@@ -50,6 +55,7 @@ Marin Preda, Moromeții
 	2. final: timp nerăbdător
 		* "timpul nu mai avea răbdare" ⇒ anticiparea evenimentului istoric = schimbările social-politice ⇒ schimbări de regim interior
 		* ⇒ "Moromete intră într-o lungă stare depresivă, din care nu avea să fie scos decât de marile zguduiri care se apropiau"
+	* ⇒ **simetrie**
 		
 2. volumul II:
 	1. incipit: "În bine sau în rău se schimbase Moromete?"
@@ -57,6 +63,16 @@ Marin Preda, Moromeții
 	2. final: evocarea lui Ilie Moromete din perspectiva lui Niculae, într-un **vis simbolic**
 		* ⇒ fiul își reconsideră atitudinea față de tată
 		* ⇒ împăcare cu acesta dincolo de moarte ("Tată [...] eu nu te-am părăsit niciodată")
+
+### Conflicte
+
+* Moromete - fiii cei mari
+	* ⇐ modalitate diferită de a înțelege lumea (refuză să-și valorifice produsele)
+* Moromete - Catrina
+	* ⇐ vânzarea pogonului de pământ
+* Moromete - Guica
+* Moromete - Niculae
+	* secundar în volumul I, principal în volumul II
 
 ### Scene semnificative
 
@@ -70,6 +86,7 @@ Marin Preda, Moromeții
 	* ⇒ anticiparea înstrăinării fiilor și singurătății tatălui
 2. scena cinei
 	* rol anticipativ pentru relațiile din familie
+	* dezvăluie conflictele mocnite
 	* imagine a ordinii într-o *familie hibridă* (= 2 căsătorii)
 	* membrii familiei:
 		* Nilă, Achim, Paraschiv: înspre ușă, absenți, gata să plece ⇒ **anticipare** a înstrăinării și revoltei
@@ -85,6 +102,11 @@ Marin Preda, Moromeții
 		* ⇒ destrămarea relațiilor sociale în satul tradițional
 		* ⇒ moarte simbolică ⇐ imaginile auditive din fundal (din cimitir)
 		* ⇒ începutul declinului familiei și satului
+	* fond auditiv: bocetele din cimitir
+	* apariția ciorilor ⇔ semne prevestitoare
+	* "grădina, caii, Moromete însuși arătau bicisnici"
+	* ⇒ prefigurează destrămarea familiei + prăbușirea satului tradițional
+	* ⇒ desacralizarea lumii ⇒ instalarea haosului
 4. poiana lui Iocan
 	* Al. Paleologu: "o agora sătească" / ~"Școala din Atena"
 	* Moromete: autoritate recunoscută în comunitate
@@ -99,6 +121,10 @@ Marin Preda, Moromeții
 	* strategie a *tergiversării*: ingnorare → indiferență
 	* Lucian Raicu: Moromete "și-a compus o mască"
 
+* alte scene:
+	* serbarea școlară
+	* secerișul
+
 * rolul scenelor:
 	* *felii de viață* + detalii semnificative ⇒ *efectul de real*
 	* progresul lent al destrămării familiei & comunității
@@ -111,9 +137,9 @@ Marin Preda, Moromeții
 ### Narator
 
 * aparține vârstei dorice, dar aduce inovații ⇒ modernitate
-* renunță la omnisciență → reflectori (Moromete, Niculae) + informatori (Scămosu / parizianul)
+* renunță la omnisciență → reflectori (Moromete, Niculae) + informatori (Scămosu / Parizianu)
 * perspectivă dindărăt (focalizare zero) + focalizarea internă
-* "colaborează" cu personajele ⇒ contaminare a discursului ⇒ își pierde autoritatea 
+* "colaborează" cu personajele ⇒ contaminare a discursului ⇒ își pierde autoritatea = limitarea omniscienței
 * ⇒ acțiune **plurivocă**
 
 ## Personaje
@@ -122,14 +148,53 @@ Marin Preda, Moromeții
 
 * statut + relația cu alte tipuri de țăran (Ion, Vitoria Lipan, etc.)
 	* noutate: țăran filozof, contemplativ, reflexiv
+	* model real: Tudor Călărașu, tatăl lui Preda
+	* "când numai bucurii sau nenorociri mari mai pot schimba firea cuiva"
+	* *personaj exponețial*
+* portret fizic
+	* chip osos
+	* frunte bombată
+	* "ochi feriți sub arcade puternice și drepte"
 * personalitatea în interiorul familiei
-* conflictul cu copii + Niculae + soție + soră
+* relațiile cu copii + Niculae + soție + soră
+	* idei divergente ⇒ relații conflictuale
+	* Catrina
+		* "sufletul negru de răutate și tutun"
+		* ⇐ ateism (⇒ lume desacralizată)
+		* "toată ziua stai de vorbă și bei tutun" ⇒ *plăcerea vorbei*
+	* Niculae
+		* "gândire limpede"
+		* "ciudatul dar de a vedea lucruri care lor le scăpau, pe care ei nu le vedeau"
+		* conflict cauzat de atitudini:
+			* față de **studii**
+			* față de **schimbări**
+	* fii
+		* opoziție
+		* ⇐ *inflexibilitate*
+		* ⇒ drama paternității înșelate
 * rol în comunitate (poiana lui Iocan, etc.)
+	* discuțiile nu încep fără el ⇒ lider al comunității
 * dramele lui Moromete
 	* drama țăranului la schimbarea lumii
+		* lume patriarhală → lume nouă
 		* "cel din urmă țăran"
 	* drama paternității rănite
 		* plecarea fiilor
 		* incapacitatea de a-i ține acasă
+	* ⇒
+		* însingurare
+		* închidee în sine
+		* refuzul de a accepta realitatea
+		* afirmarea independenței (răspunsul din final)
+* mijloace caracterizare:
+	* directă:
+		* narator: preocupare pentru notarea **stărilor** ("era tăcut", "era vesel", "era tulburat")
+	* indirectă: **mijloace moderne**
+		* *surprinderea psihologiei*
+		* *analiza psihologică*
+		* *observația morală*
+		* monolog interior
+		* stil indirect liber
 * finalul operei (inclusiv relația cu Niculae)
 	* "eu [...] am fost independent"
+* ⇒ Moromete transformă existența într-un **spectacol**
