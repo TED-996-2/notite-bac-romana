@@ -13,8 +13,10 @@ Marin Preda, Moromeții
 ## Tema
 
 * viața socială din satul românesc în Câmpia Dunării înainte și după de cel de-al Doilea Război Mondial
+* ⇒ destrămarea satului tradițional
 * **tema timpului**
 * + relația dintre individ și istorie
+* + familia, iubirea, moartea, libertatea
 
 ## Titlu
 
@@ -23,40 +25,51 @@ Marin Preda, Moromeții
 
 ## Structură
 
-* 2 volume
+* 2 volume:
+	1. volumul I:
+		* **volumul tatălui**
+		* pe parcursul verii, cu 3 ani înainte de WW2
+		* 3 părți, fiecare debutând cu o scenă de familie
+			1. aparență stabilitate = mod tradițional de viață
+				* scena cinei
+			2. începutul problemelor
+				* scena familiei pe prispă
+			3. necazurile familiei
+				* scena secerișului
+		* urmărește individul și utopia satului tradițional
+		* ritm narativ lent
+		* *tehnica decupajului* + tenhica anticipativă
+			* ⇒ impresie de viață autentică ⇒ **drama lui Moromete**
+	2. volumul II:
+		* **volumul fiilor**
+		* se petrece pe parcursul a 25 de ani după primul volum
+		* 5 părți
+		* urmărește colectivitatea și utopia comunistă
+		* crește drama personajelor
+		* imagini eterogene
+		* ritm alert ⇒ schimbări violente
+		* ⇒ o lume nouă, neașezată ⇒ **drama satului**
+		* ⇒ satul: "o groapă fără fund, din care nu mai încetau să iasă atâți necunoscuți!"
+		* *tehnica rezumazivă* (evenimente selecționate, *elipsa* unor perioade de timp, *alternanța* timpului narațiunii)
 
-1. volumul I:
-	* **volumul tatălui**
-	* 3 părți, fiecare debutând cu o scenă de familie
-		1. stabilitate = mod tradițional de viață
-			* scena cinei
-		2. începutul problemelor
-			* scena familiei pe prispă
-		3. necazurile familiei
-			* scena secerișului
-	* *tehnica scenei* + tenhica anticipativă
-		* ⇒ impresie de viață autentică ⇒ **drama lui Moromete**
-	* pe parcursul verii, cu 3 ani înainte de WW2
-2. volumul II:
-	* **volumul fiilor**
-	* se petrece pe parcursul a 25 de ani după primul volum
-	* 5 părți
-	* crește drama personajelor
-	* imagini eterogene
-	* ritm alert ⇒ schimbări rapide
-	* ⇒ satul devine o lume nouă, neașezată ⇒ **drama satului**
-	* *tehnica rezumativă*
+### Spațiu, timp
+
+* satul Siliștea-Gumești
+	* **simboluri ale stabilității**: salcâmul, poiana lui Iocan
+* înainte și după WW2
+	* istoria: dură, neiertătoare
 
 ### Relația incipit-final
 
 1. volumul I: problematica timpului bivalent
 	1. incipit: timp răbdător
+		* "se pare că timpul avea cu oamenii o nesfârșită răbdare"
 		* ⇒ satul tradițional: spațiu al liniștii și armoniei ("viața se scurgea aici fără conflicte mari")
 	2. final: timp nerăbdător
 		* "timpul nu mai avea răbdare" ⇒ anticiparea evenimentului istoric = schimbările social-politice ⇒ schimbări de regim interior
 		* ⇒ "Moromete intră într-o lungă stare depresivă, din care nu avea să fie scos decât de marile zguduiri care se apropiau"
 	* ⇒ **simetrie**
-		
+	* **timp bivalent**
 2. volumul II:
 	1. incipit: "În bine sau în rău se schimbase Moromete?"
 		* validează influența schimbărilor asupra acestuia
@@ -67,12 +80,27 @@ Marin Preda, Moromeții
 ### Conflicte
 
 * Moromete - fiii cei mari
-	* ⇐ modalitate diferită de a înțelege lumea (refuză să-și valorifice produsele)
+	* ⇐ modalitate diferită de a înțelege lumea
+	* ⇐ menținerea terenului întreg vs. independența economică a fiilor
+	* ⇐ a doua căsătorie a lui Moromete
+	* amplificat de Guica
+	* ⇒ planul fiilor de a pleca cu oile & caii pentru a-și asigura un trai la București
+	* ⇒ plecarea lui Achim la București cu oile + (mai târziu) fuga lui Nilă și Parashiv cu caii și o parte din zestre
 * Moromete - Catrina
-	* ⇐ vânzarea pogonului de pământ
+	* ⇐ vânzarea pogonului de pământ + amânarea trecerii casei pe numele ei (din cauza fiilor)
+	* Catrina simte "cum i se strecoară în inimă nepăsarea și sila de bărbat și de copii"
+	* (vol. II) vizita la București + propunerea pentru fii ⇒ Catrina îl părăsește pe Ilie
+	* ⇒ înstrăinare **definitivă**
 * Moromete - Guica
+	* ar fi preferat ca Moromete să fi rămas văduv
+	* ⇒ Guica rămâne singură la bătrânețe
+	* ⇒ ură pentru Moromete, transmisă fiilor ⇒ fuga acestora
 * Moromete - Niculae
 	* secundar în volumul I, principal în volumul II
+	* volumul I: dorința lui Niculae de a merge la școală vs. refuzul lui Moromete de a cheltui bani
+		* ⇒ fiul se desprinde treptat de familie
+	* volumul II: diferența de mentalități: țăran tradițional vs. susținător al comunismului
+		* îndepărtarea de tată
 
 ### Scene semnificative
 
@@ -111,7 +139,7 @@ Marin Preda, Moromeții
 	* Al. Paleologu: "o agora sătească" / ~"Școala din Atena"
 	* Moromete: autoritate recunoscută în comunitate
 	* loc de afirmare a libertății spiritului
-	* caracter ritualic:
+	* caracter *ritualic*:
 		* desfășurare regulată
 		* loc bine definit al țăranilor
 5. plata *fonciirii* (dialog cu perceptorul)
@@ -123,13 +151,13 @@ Marin Preda, Moromeții
 
 * alte scene:
 	* serbarea școlară
+		* caracterizează relația dintre Moromete și Niculae
 	* secerișul
-
+		* frescă a satului arhaic, ~*ritual străvechi*
 * rolul scenelor:
 	* *felii de viață* + detalii semnificative ⇒ *efectul de real*
 	* progresul lent al destrămării familiei & comunității
 	* conturează personalitatea lui Moromete + rolul său în familie & comunitate
-
 * ⇒ spațiul în cele 2 volume:
 	* volumul I: omogen, concentrat, privat (în familie)
 	* volumul II: eterogen, dimensionat **politic** și **social**
@@ -138,7 +166,7 @@ Marin Preda, Moromeții
 
 * aparține vârstei dorice, dar aduce inovații ⇒ modernitate
 * renunță la omnisciență → reflectori (Moromete, Niculae) + informatori (Scămosu / Parizianu)
-* perspectivă dindărăt (focalizare zero) + focalizarea internă
+* perspectivă dindărăt; focalizarea internă + (rar) focalizare zero
 * "colaborează" cu personajele ⇒ contaminare a discursului ⇒ își pierde autoritatea = limitarea omniscienței
 * ⇒ acțiune **plurivocă**
 
@@ -155,8 +183,8 @@ Marin Preda, Moromeții
 	* chip osos
 	* frunte bombată
 	* "ochi feriți sub arcade puternice și drepte"
-* personalitatea în interiorul familiei
-* relațiile cu copii + Niculae + soție + soră
+* personalitatea în interiorul familiei + relațiile cu copii + Niculae + soție + soră
+	* (+ vezi conflictele cu familia)
 	* idei divergente ⇒ relații conflictuale
 	* Catrina
 		* "sufletul negru de răutate și tutun"
@@ -165,13 +193,8 @@ Marin Preda, Moromeții
 	* Niculae
 		* "gândire limpede"
 		* "ciudatul dar de a vedea lucruri care lor le scăpau, pe care ei nu le vedeau"
-		* conflict cauzat de atitudini:
-			* față de **studii**
-			* față de **schimbări**
 	* fii
-		* opoziție
-		* ⇐ *inflexibilitate*
-		* ⇒ drama paternității înșelate
+		* *inflexibilitate* ⇒ conflict
 * rol în comunitate (poiana lui Iocan, etc.)
 	* discuțiile nu încep fără el ⇒ lider al comunității
 * dramele lui Moromete
@@ -195,6 +218,18 @@ Marin Preda, Moromeții
 		* *observația morală*
 		* monolog interior
 		* stil indirect liber
+		* + limbaj ⇒ *plăcerea vorbei*
 * finalul operei (inclusiv relația cu Niculae)
-	* "eu [...] am fost independent"
+	* Moromete se stinge încet, în singurătate și tăcere
+	* "*eu [...] am fost independent*"
+	* Moromete nu acceptă că modul lui de viață a dispărut
 * ⇒ Moromete transformă existența într-un **spectacol**
+
+## Elemente de modernitate
+
+* dimensiune profund psihologică a prozei țărănești - "conștiința, așa cum este, e suficient de complexă"
+* valorifică complexitatea naturii umane
+* erou reflexiv, nu activ
+* acțiune plurivocă = din mai multe perspective
+* narator original
+* tehnici narative moderne - alternarea monolog interior ↔ vorbire indirectă liberă, tehnicile scenei, a rezumatului (fapte + gânduri), a anticipării
