@@ -1,2 +1,3 @@
-# notite-bac-romana
-Notite pentru bacul la romana, structurate cat mai eficient.
+# Notițe bac română
+
+Notițe pentru bacul la română, structurate cat mai eficient.
