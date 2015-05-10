@@ -17,8 +17,8 @@ title: Marin Preda, Moromeții
 * viața socială din satul românesc în Câmpia Dunării înainte și după de cel de-al Doilea Război Mondial
 * ⇒ destrămarea satului tradițional
 * **tema timpului**
-* + relația dintre individ și istorie
-* + familia, iubirea, moartea, libertatea
+* +relația dintre individ și istorie
+* +familia, iubirea, moartea, libertatea
 
 ## Titlu
 
