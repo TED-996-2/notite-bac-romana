@@ -20,4 +20,8 @@ Teorie literară
 	2. relația ideii poetice cu mijloacele artistice (2-3 figuri de stil, 2 imagini artistice)
 	3. ± eul liric: mărci, atitudini, sentimente, etc.
 
-	
+* Argumentare poezie:
+	1. temă & viziune despre lume ± titlu
+	2. ± structură
+	3. idei
+	4. limbaj poetic
