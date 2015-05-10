@@ -24,3 +24,5 @@ paginate: 5
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.md, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+
+google_analytics: UA-62799776-1
