@@ -14,7 +14,7 @@ title: Marin Preda, Moromeții
 
 ## Tema
 
-* viața socială din satul românesc în Câmpia Dunării înainte și după de cel de-al Doilea Război Mondial
+* viața socială (satul românesc, Câmpia Dunării, înainte și după WW2)
 * ⇒ destrămarea satului tradițional
 * **tema timpului**
 * \+ relația dintre individ și istorie
@@ -23,7 +23,7 @@ title: Marin Preda, Moromeții
 ## Titlu
 
 * ⇒ roman al **vieții de familie**
-* familia reprezintă întreaga clasei sociale ⇒ evlouții similare
+* familia reprezintă întreaga clasă socială ⇒ evoluții similare
 
 ## Structură
 
@@ -52,7 +52,7 @@ title: Marin Preda, Moromeții
 		* ritm alert ⇒ schimbări violente
 		* ⇒ o lume nouă, neașezată ⇒ **drama satului**
 		* ⇒ satul: "o groapă fără fund, din care nu mai încetau să iasă atâți necunoscuți!"
-		* *tehnica rezumazivă* (evenimente selecționate, *elipsa* unor perioade de timp, *alternanța* timpului narațiunii)
+		* *tehnica rezumativă* (evenimente selecționate, *elipsa* unor perioade de timp, *alternanța* timpului narațiunii)
 
 ### Spațiu, timp
 
@@ -208,7 +208,7 @@ title: Marin Preda, Moromeții
 		* incapacitatea de a-i ține acasă
 	* ⇒
 		* însingurare
-		* închidee în sine
+		* închidere în sine
 		* refuzul de a accepta realitatea
 		* afirmarea independenței (răspunsul din final)
 * mijloace caracterizare:
@@ -220,7 +220,7 @@ title: Marin Preda, Moromeții
 		* *observația morală*
 		* monolog interior
 		* stil indirect liber
-		* + limbaj ⇒ *plăcerea vorbei*
+		* \+ limbaj ⇒ *plăcerea vorbei*
 * finalul operei (inclusiv relația cu Niculae)
 	* Moromete se stinge încet, în singurătate și tăcere
 	* "*eu [...] am fost independent*"
