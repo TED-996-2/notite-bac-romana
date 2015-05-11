@@ -36,13 +36,12 @@ George Călinescu, Enigma Otiliei
 * observații cu detalii bogate ⇒ "ochiul unui estet" + încălcarea obiectivității naratorului
 * detalii arhitectonice și vestimentare ⇒ configurarea cadrului, prezentarea personajelor
 * ⇒ descriere psihologică / simbolică
-* ⇒ **restrângerea treptată a cadrului** - oraș → stradă → casa → **personaje**
+* ⇒ **restrângerea treptată a cadrului** - oraș → stradă → casă → **personaje**
 * elemente de roman balzacian:
 	* caracteriul situat al acțiunii ⇒ familiarizarea cu mediul
 	  ⇒ imaginea societății bucureștene
 	* "cu ajutorul străzilor, caselor, mobilelor, cunoaștem oamenii"
 	  ⇒ reconstituirea departe → aproape; afară → înăuntru
-	  ⇒ **elemente balzaciene**
 * redescompunere **polemică** a balzacianismului ⇒ "balzacianism fără Balzac"
 	* polemică ⇐ caracteristica critică a autorului
 
@@ -79,10 +78,10 @@ George Călinescu, Enigma Otiliei
 
 ## Personaje
 
-* **tipologice** = portrete clasice - avarul, ipohondrul, gelosul, ambițiosul, cocheta, arivistul - (**tehnică balzaciană**)
+* **tipologice** = portrete clasice - avarul, ipohondrul, gelosul, ambițiosul, cocheta, arivistul (**tehnică balzaciană**)
 * descrise prin mediul în care trăiesc și fizionomia acestora ⇒ trăsăturile de caracter (**tehnică balzciană**)
 * *naturalism*: interes pentru procese fizice deviante, alienare, senilitate, motivate prin **ereditate** și **mediu** (ex: Titi, copie a tatălui său, Simion; Aurica, asemănătoare mamei sale, Aglae, prin preocupările obsesive: moștenirea → dorința de a se căsători)
-* *ambiguitate* (acestea depășesc limitele tipologiei lor)
+* *ambiguitate* (acestea depășesc limitele tipologiei lor) - ex: moș Costache, avarul, încearcă să-i facă o casă Otiliei (din materiale de la demolări)
 
 ### Felix
 
@@ -102,8 +101,8 @@ George Călinescu, Enigma Otiliei
 
 * personaj **eponim**
 * personalitate în formare
-* ideal de feminitate atât pentru Felix cât și pentru Pascalopol
-* element definitoriu al personalității: misterul
+* ideal de feminitate pentru Felix și Pascalopol
+* element definitoriu al personalității: **misterul**
 * descrierea spațiului ⇒ preocupări artistice, naturalețe, cochetărie, curiozitate, atracție spre nou, neliniște, nerăbdare
 * portret fizic ⇒ vârsta, frumusețea, eleganța, delicatețea ⇒ antiteză cu Aurica
 * portret realizat prin tehnici moderne: *comportamentism* (fapte, gesturi, replici) și *pluriperspectivism* (reflectarea personalității din perspectiva altor personaje)
@@ -133,7 +132,7 @@ George Călinescu, Enigma Otiliei
 	* iubirea Felix-Otilia - frumusețe și puritate într-o societate degradată
 	* ambiguizarea sentimentelor (cuplul Felix-Otilia, Pascalopol)
 	* dublete antinomice (Otilia-Aglae, Costache-Pascalopol, Felix-Stănică, Felix-Pascalopol)
-	* descrierile romantice (strada Antim, 
+	* descrierile romantice (strada Antim, moșia lui Pascalopol)
 * elemente moderne:
 	* spiritul critic și polemic
 	* ambiguitatea personajelor (acestea depășesc limitele tipologiei lor)
