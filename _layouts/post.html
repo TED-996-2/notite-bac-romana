@@ -2,14 +2,14 @@
 layout: default
 ---
 
-{% assign minutes = content | number_of_words | divided_by: 180 %}
+{% assign minutes = content | number_of_words | divided_by: 120 %}
 {% if minutes == 0 %}
 {% assign minutes = 1 %}
 {% endif %}
 
 <div class="post-header mb2">
   <h1>{{ page.title }}</h1>
-  <span class="post-meta small">{{ minutes }} minute read</span>
+  <span class="post-meta small">~{{ minutes }} minute</span>
 </div>
 
 <article class="post-content">
