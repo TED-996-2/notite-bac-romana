@@ -8,12 +8,12 @@ title: George Călinescu, Enigma Otiliei
 
 ## Contextualizare
 
-* urmează formula realist-tradițională într-o epocă dominată de proza moderă analitică: (Călinescu: "Realismul și balzacianismul reprezintă un mod de a crea etern și durabil" ⇔ literatura trebuie să redea **viața**)
+* urmează formula realist-tradițională într-o epocă dominată de proza modernă analitică: (Călinescu: "Realismul și balzacianismul reprezintă un mod de a crea etern și durabil" ⇔ literatura trebuie să redea **viața**)
 * un roman *de critic* ⇒ raportare polemică la societate (N. Manolescu: "un balzacianism fără Balzac, un balzacianism redescoperit polemic")
 
 ## Tema
 
-* specifică prozei balzaciene: fundalul social din București, începutul sec. 20)
+* specifică prozei balzaciene: fundalul social (București, începutul sec. 20)
 * societatea este degradată din cauza puterii distructive a banilor
 * romanul prezintă istoria moștenirii lui Costache Giurgiuveanu și maturizarea lui Felix Sima
 * subordonate temei: tema paternității, tema moștenirii (specifice balzaciene)
