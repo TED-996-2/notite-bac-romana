@@ -6,6 +6,8 @@ Teorie literară
 	* mai multe planuri narative
 	* acțiune complexă
 	* surprinde o epocă și un loc
+	
+* **Realism**: redare **veridică** a realității
 
 * **Funcțiile comunicării**:
 	* *referențială*: transmite informații
