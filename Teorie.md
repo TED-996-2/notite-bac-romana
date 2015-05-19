@@ -10,6 +10,14 @@ Teorie literară
 	
 * **Realism**: redare **veridică** a realității
 
+* **Romantism**:
+	* primatul **sentimentului** și a fanteziei creatoare
+	* **subiectivitate**
+	* **individualitatea creatoare**
+	* mister + excepțional
+	* teme & motive: istorie, natură, iubire, geniu
+	* atitudini: melancolie, singurătate, reverie, contemplație
+
 * **Funcțiile comunicării**:
 	* *referențială*: transmite informații
 	* *emotivă/expresivă*: valorizează emițătorul ⇔ sentimente
