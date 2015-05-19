@@ -28,9 +28,9 @@ Mihai Eminescu, Luceafărul
 	* poet: **excepțional**
 	* ⇒ **însingurat**, **nefericit**, **inadaptat**
 	* Eminescu:
-> Aceasta este povestea. Iar înţelesul alegoric ce i-am dat este că, dacă geniul nu cunoaşte nici moarte
-> şi numele lui scapă de noaptea uitării, pe de altă parte, aici, pe pământ, nici e capabil de a ferici
-> pe cineva, nici capabil de a fi fericit. El n-are moarte, dar n-are nici noroc.
+		> Aceasta este povestea. Iar înţelesul alegoric ce i-am dat este că, dacă geniul nu cunoaşte nici moarte
+		> şi numele lui scapă de noaptea uitării, pe de altă parte, aici, pe pământ, nici e capabil de a ferici
+		> pe cineva, nici capabil de a fi fericit. El n-are moarte, dar n-are nici noroc.
 	* concepție *shopenhaueriană*
 		* Luceafăr / Hyperion: *spiritul superior*
 		* dorința de cunoaștere absolută
@@ -51,4 +51,28 @@ Mihai Eminescu, Luceafărul
 
 * motivul central
 * susține *alegoria* locului geniului în lume
-* \+ 2 mituri: 
+* \+ 2 mituri: românesc (steaua călăuzitoare) + grecesc (Hyperion = *hyper eon* = *cel care merge pe deasupra*)
+	* ⇒ natura duală a personajului romantic
+
+## Structură
+
+* 98 strofe
+* 4 tablouri
+	* opoziția universal-cosmic vs. uman-terestru
+
+
+### Tablouri
+
+1. primul tablou
+	* formula "a fost odată ca-n povești" ⇒ anticiparea fantasticului
+	* descrierea fetei de împărat (dominantă: **unicitate**)
+	* iubirea pentru Luceafăr: ⇐ contemplație + visare
+		* cadru nocturn
+		* **motive romantice: marea, castelul, fereastra, oglinda
+	* comunicarea **prin vis** (= convenție romantică ⇒ evadarea din concret)
+	* cererea fetei ca Luceafărul să coboare în lumea ei:
+		> Cobori în jos, luceafăr blând  
+		> Alunecând pe-o rază  
+		> Pătrunde-n casă și în gând  
+		> Și viața-mi luminează!
+	* ⇒ întruparea în chip angelic și apoi demonic

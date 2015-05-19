@@ -48,19 +48,21 @@ Ion Barbu, Joc secund
 	* ⇒ **concentrare a ideilor**
 * enunțuri **nominale** (= fără predicat)
 	* ⇒ **caracter descriptiv** + **concentrare a ideilor**
-* strofe:
-	1. prima strofă
-		* ilustrare a actului de *contemplație poetică* ⇒ poezia
-		* relația real - ideal = realitate - poezie
-		* ieșire din timpul fizic ("din ceas, dedus")
-		* ⇒ actul poetic: reflectare, dematerializare, sintetizare
-		* sintetizare ⇒ asociere cu Hermes (ipostază intelectuală)
-	2. a doua strofă
-		* poezia = "nadir latent" ( = imagine purificată)
-		* "harfe" ⇒ asocierea cu Orfeu (cântecul)
-		* poezie ⇔ cântec
-			* transformare în limbaj propriu + muzicalitate
-			* = abstractizare + interiorizare a realului
+
+### Strofe:
+
+1. prima strofă
+	* ilustrare a actului de *contemplație poetică* ⇒ poezia
+	* relația real - ideal = realitate - poezie
+	* ieșire din timpul fizic ("din ceas, dedus")
+	* ⇒ actul poetic: reflectare, dematerializare, sintetizare
+	* sintetizare ⇒ asociere cu Hermes (ipostază intelectuală)
+2. a doua strofă
+	* poezia = "nadir latent" ( = imagine purificată)
+	* "harfe" ⇒ asocierea cu Orfeu (cântecul)
+	* poezie ⇔ cântec
+		* transformare în limbaj propriu + muzicalitate
+		* = abstractizare + interiorizare a realului
 
 ### ⇒ Idei poetice
 
