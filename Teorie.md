@@ -11,7 +11,8 @@ Teorie literară
 * **Realism**: redare **veridică** a realității
 
 * **Romantism**:
-	* primatul **sentimentului** și a fanteziei creatoare
+	* reacție împotriva **rigorii clasicismului**
+	* primatul **sentimentului** și a fanteziei creatoare = **libertate**
 	* **subiectivitate**
 	* **individualitatea creatoare**
 	* mister + excepțional
