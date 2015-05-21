@@ -7,7 +7,18 @@ Teorie literară
 	* acțiune complexă
 	* personaje numeroase
 	* surprinde o epocă și un loc
-	
+
+* Roman **doric**:
+	* structură clasică
+	* ordine cronologică
+	* narator obiectiv, omniscient
+	* valorifică tradițiile + mitologia
+* Roman **ionic**:
+	* interiorizarea personajului ⇒ *intelectualizarea* romanului
+	* narator subiectiv, implicat în acțiune
+	* tehnici moderne: *jurnalul*, *scrisoarea* + *fluxul conștiinței*, *analiza psihologică*
+	* ⇒ **autenticitate**
+
 * **Realism**: redare **veridică** a realității
 
 * **Romantism**:
