@@ -21,6 +21,15 @@ Teorie literară
 
 * **Realism**: redare **veridică** a realității
 
+* **Basm**
+
+* planuri: real + fabulos
+* proză / versuri
+* popular / cult
+* tema: lupta bine vs. rău, cu triumful binelui
+* acțiune supranaturală
+* personaje *polarizate etic*
+
 * **Romantism**:
 	* reacție împotriva **rigorii clasicismului**
 	* primatul **sentimentului** și a fanteziei creatoare = **libertate**
