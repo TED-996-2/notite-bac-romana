@@ -5,6 +5,8 @@ Ion Creangă, Harap-Alb
 
 ## Contextualizare
 
+* publicat în "Convorbiri literare", 1877
+
 ## Tema
 
 * lupta bine vs. rău, cu triumful binelui
@@ -15,10 +17,7 @@ Ion Creangă, Harap-Alb
 
 * "povestea" ⇒ planul fabulos
 * rol principal al personajului eponim
-* "Harap-Alb":
-	* statut inedit: **rob nobil** = inițiere
-	* oximoron ⇒ evoluția neinițiat → prinț; slugă → stăpân
-	* \+ detașare de tipul lui Făt-Frumos
+* nume: vezi Harap-Alb
 
 ## Structură
 
@@ -39,6 +38,7 @@ Ion Creangă, Harap-Alb
 	* scoatere a citiorului din lumea ficțională + readucerea la real
 	* "iar pe la noi, cine are mănâncă și bea, iar cine nu, se uită și rabdă"
 		* ⇒ umor + coborârea la real
+* ⇒ **relație incipit-final**: **simetrie**
 
 ### Tipar narativ
 
@@ -51,14 +51,14 @@ Ion Creangă, Harap-Alb
 ### Triplicarea
 
 * structurare în jurul cifrei 3
-* 3 probe, 3 frați, 3 smicele de măr dulce, etc.
+* 3 serii de probe, 3 frați, 3 smicele de măr dulce, etc.
 
 ### Motive narative
 
 * împăratul fără urmaș
 * superioritatea mezinului (scene: pielea de urs, podul, Sf. Duminică)
 * motive narative tipice:
-	* împăratul fără urmaș (împăratul Verde)
+	* împăratul fără urmași (împăratul Verde)
 	* superioritatea mezinului (pielea de urs, podul, Sf. Duminică)
 	* călătoria (pădurea, fântâna)
 	* supunerea prin vicleșug (Spânul)
@@ -79,16 +79,40 @@ Ion Creangă, Harap-Alb
 	* trecut nedeterminat
 	* mitic, fabulos
 	* timp al originilor
+* narațiune + dialog
+
+### Conflict
+
+* lupta dintre bine și rău, cu victoria binelui
+* provocat de înșelătoria Spânului
+* finalizat cu moartea și renașterea lui Harap-Alb (⇔ *moartea inițiatică*) și sfârșitul Spânului
 
 ### Narator
 
-* obiectiv
+* obiectiv (persoana a III-a)
 * omniscient, extradiegetic
 * în tranziții: implicat, cu adresări directe către cititor
 	* "Ce-mi pasă mie? Eu sunt dator să spun povestea"
 		* ⇒ temporar, creditabil → necreditabil
 	* opinii
 	* comentarii etice, psihologice, grave / ironice
+
+### Stil
+
+* **basm** ⇒ oralitate:
+	* = reprezentare în operă cultă a elementelor limbii vorbite
+	* surse: adresare directă, cuvinte + expresii populare, regionalisme, exclamații, interogații, interjecții, fragmente rimate + ritmate, proverbe + zicători
+	* ex: "Vorba ceea: «Frica păzește bostănăria»"
+	* registre: popular, oral, regional
+	* ⇒ limbaj artistic **original**
+* basm **cult** ⇒ **umor**, provenit din:
+	* scene hazlii (ex: cearta din camera de aramă)
+	* caracterizări pitoreșți (ex: Gerilă, Ochilă)
+	* nume + porecle (ex: Buzilă, țapul cel roș)
+	* diminutive cu sens augumentativ (ex: "buzișoare" -Gerilă-, "băuturică" -Setilă-)
+	* zeflemizire (ex: "Tare-mi eșți drag! Te-aș băga în sân, dar nu încapi de urechi")
+	* expresii mucalite (ex: "Să trăiască trei zile cu cea de alaltăieri!")
+	* ironie (ex: "Doar unu-i Împăratul Roș, vestit prin meleagurile aceste pentru bunătatea lui cea nemaipomenită și milostivirea lui cea neauzită")
 
 ## Personaje
 
@@ -101,9 +125,9 @@ Ion Creangă, Harap-Alb
 	* ajutorul (calul, *ajutorul universal)
 	* fata de împărat și tatăl acesteia (Împăratul Roș și fata sa)
 * pozitive / negative
-* reale / fabuloase
+* reale / fabuloase (= ființe himerice)
 * umane / animaliere
-	* Călinescu: "Când dintr-o narațiune lipsesc acești eroi himerici, n-avem de a face cu un basm."
+* Călinescu: "Când dintr-o narațiune lipsesc acești eroi himerici, n-avem de a face cu un basm."
 * individualizate prin comportament, atitudine, limbaj, gestică, mimică, psihologie
 	* dominantă etică + complexitate
 
@@ -115,7 +139,40 @@ Ion Creangă, Harap-Alb
 	* fără reușite de unul singur
 	* calități & defecte
 	* constant în limitele umanului
-	* nume individualizat (vs. Făt-Frumos)
+* nume ⇒ statut inedit: **rob nobil** = inițiere
+	* oximoron ⇒ evoluția neinițiat → prinț; slugă → stăpân
+	* \+ detașare de tipul lui Făt-Frumos
+* statut inițial:
+	* neinițiat, naiv (imposbilitatea de a vedea dincolo de aparențe)
+	* bunătate (trăsătură proprie = în afara procesului de maturizare)
+		* o miluiește pe Sfânta Duminică
+	* nume ⇒ condiție de *învățăcel*
+	* încalcă sfaturile tatălui
+* **pădurea-labirint**
+	* intrarea în fântână: **moarte simbolică**
+* proces de **maturizare**
+	* probele depășite
+		* dificultate ascendentă ⇒ **evoluție**
+	* sprijinit de ajutoare + donatori (Sf. Duminică, **calul**, furnicile + albinele, cei cinci tovarăși)
+		* \+ obiecte miraculoase (aripile crăieselor, smicelele de măr, apa vie, apa moartă)
+	* conflict cu Spânul
+	* ajută pe furnici și albine ⇒ **bunătate**
+	* prietenie (față de cei 5 tovarăși)
+	* onestitate (față de jurământul cu Spânul)
+	* \+ **maturizare prin iubire**
+* → ipostaza de inițiat, om matur
+	* moarte + înviere ⇒ eliberarea de jurământ
+	* ⇒ înțelepciune
+	* erou **vrednic** ⇒ răsplata: nunta + împărăția
+* mijloace de caracterizare:
+	* direct
+		* narator
+			* "Fiul craiului, boboc în felul său la trebi de aieste, se potrivește spânului și se bagă în fântână"
+		* alte personaje
+			* cererea Împăratului Verde: "cel mai **vrednic** dintre nepoți"
+			* Sf. Duminică: "Fii încredințat că nu eu, ci puterea milosteniei și inima ta cea bună te ajută, Harap-Alb"
+		* autocaracterizare
+	* indirect: fapte, gânduri, nume, relații, limbaj
 
 ### Personaje secundare
 
@@ -126,10 +183,11 @@ Ion Creangă, Harap-Alb
 		* fiziologice: foame, sete, frig
 		* cognitive: dorința de cunoaștere, dorința de dominare a spațiului și a timpului
 * Sf. Duminică
-	* rol de mistagog
+	* rol de *mistagog*
 * Spânul
-	* participă la inițierea lui Harap-Alb
-	* ⇒ Harap-Alb - Spânul ≃ Hercule - Euristeu
+	* dominantă: răutate, ură
+	* participă la inițierea lui Harap-Alb ⇒ **un rău necesar**
+	* ⇒ Harap-Alb - Spân ≃ Hercule - Euristeu
 
 ## Încadrări
 
@@ -139,9 +197,7 @@ Ion Creangă, Harap-Alb
 * motive narative tipice
 * real ↔ fabulos
 * personaje
-* **oralitate**
-	* = reprezentare în operă cultă a elementelor limbii vorbite
-	* surse: adresare directă, cuvinte + expresii populare, regionalisme, exclamații, interogații, interjecții, fragmente rimate + ritmate, proverbe + zicători
+* **oralitate** (vezi Stil)
 
 ### Elemente culte
 
@@ -151,12 +207,5 @@ Ion Creangă, Harap-Alb
 * erou atipic (vezi Harap-Alb)
 * fantastic umanizat + localizat (spațiu ≃ universul rural realist)
 	* G. Călinescu: personajele "se comportă țărănește și vorbesc moldovenește"
-* **umor**, provenit din:
-	* scene hazlii (ex: cearta din camera de aramă)
-	* caracterizări pitoreșți (ex: Gerilă, Ochilă)
-	* nume + porecle (ex: Buzilă, țapul cel roș)
-	* diminutive cu sens augumentativ (ex: "buzișoare" -Gerilă-, "băuturică" -Setilă-)
-	* zeflemizire (ex: "Tare-mi eșți drag! Te-aș băga în sân, dar nu încapi de urechi")
-	* expresii mucalite (ex: "Să trăiască trei zile cu cea de alaltăieri!")
-	* ironie (ex: "Doar unu-i Împăratul Roș, vestit prin meleagurile aceste pentru bunătatea lui cea nemaipomenită și milostivirea lui cea neauzită")
+* **umor** (vezi Stil)
 * erudiție paremiologică = proverbe + zicători: "Cine poate oase roade, cine nu, nici carne moale"
