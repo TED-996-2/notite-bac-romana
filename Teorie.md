@@ -7,28 +7,47 @@ Teorie literară
 	* acțiune complexă
 	* personaje numeroase
 	* surprinde o epocă și un loc
-
-* Roman **doric**:
-	* structură clasică
-	* ordine cronologică
-	* narator obiectiv, omniscient
-	* valorifică tradițiile + mitologia
-* Roman **ionic**:
-	* interiorizarea personajului ⇒ *intelectualizarea* romanului
-	* narator subiectiv, implicat în acțiune
-	* tehnici moderne: *jurnalul*, *scrisoarea* + *fluxul conștiinței*, *analiza psihologică*
-	* ⇒ **autenticitate**
-
-* **Realism**: redare **veridică** a realității
+	* \+ **doric**:
+		* structură clasică
+		* ordine cronologică
+		* narator obiectiv, omniscient
+		* valorifică tradițiile + mitologia
+	* \+ **ionic**:
+		* interiorizarea personajului ⇒ *intelectualizarea* romanului
+		* narator subiectiv, implicat în acțiune
+		* tehnici moderne: *jurnalul*, *scrisoarea* + *fluxul conștiinței*, *analiza psihologică*
+		* ⇒ **autenticitate**
 
 * **Basm**
+	* planuri: real + fabulos
+	* proză / versuri
+	* popular / cult
+	* tema: lupta bine vs. rău, cu triumful binelui
+	* acțiune supranaturală
+	* personaje *polarizate etic*
 
-* planuri: real + fabulos
-* proză / versuri
-* popular / cult
-* tema: lupta bine vs. rău, cu triumful binelui
-* acțiune supranaturală
-* personaje *polarizate etic*
+* Operă **dramatică**:
+	* operă destinată reprezentării scenice
+	* prezența **didascaliilor**
+		* *didascalia inițială*: prezentare personaje + scurte caracterizări
+		* detalii **nonverbale** (gestică, mimică, vestimentație, mișcare scenică) + **paraverbale** (intonații, ton, accent, modulații, debit verbal)
+		* emițător = **autor**
+	* timp + spațiu: concentrate
+	* număr relativ mic de personaje
+	* mediu de expunere: dialogul
+		* ⇒ verbalizarea acțiunii
+		* ⇒ dramatism + dinamism
+		* ⇒ caracterizare de personaje
+		* ⇒ **autenticitate**
+	* împărțire: acte + scene
+
+* **Comedie**:
+	* intrigă banală, conflict derizoriu
+	* final fericit
+	* valorificarea **comicului**
+		* = contrastul dintre aparență și esență
+
+---
 
 * **Romantism**:
 	* reacție împotriva **rigorii clasicismului**
@@ -39,6 +58,14 @@ Teorie literară
 	* teme & motive: istorie, natură, iubire, geniu
 	* atitudini: melancolie, singurătate, reverie, contemplație
 
+* **Realism**: redare **veridică** a realității
+	* tema socială
+	* narator obiectiv
+	* spațiu + timp bine determinate
+	* personaje tipologice
+
+---
+
 * **Funcțiile comunicării**:
 	* *referențială*: transmite informații
 	* *emotivă/expresivă*: valorizează emițătorul ⇔ sentimente
@@ -46,6 +73,8 @@ Teorie literară
 	* *poetică*: nuanțarea mesajului (ex: figuri de stil, umor, etc)
 	* *fatică*: verificarea **canalului** de comunicare (ex: "Alo?")
 	* *metalingvistică*: despre **cod**
+
+---
 
 * Comentarii:
 	1. idee poetică
