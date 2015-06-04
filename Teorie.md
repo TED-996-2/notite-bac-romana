@@ -39,8 +39,9 @@ Teorie literară
 		* ⇒ dramatism + dinamism
 		* ⇒ caracterizare de personaje
 		* ⇒ **autenticitate**
-	* împărțire: acte + scene
-
+		* \+ monolog (discursuri / *aparté*
+	* împărțire: acte + scene + replici
+
 * **Comedie**:
 	* intrigă banală, conflict derizoriu
 	* final fericit
