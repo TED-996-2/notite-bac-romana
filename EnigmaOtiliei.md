@@ -1,5 +1,6 @@
 George Călinescu, Enigma Otiliei
 ===
+roman: realist-balzacian
 
 * 1938, perioada interbelică
 * roman **realist-balzacian**

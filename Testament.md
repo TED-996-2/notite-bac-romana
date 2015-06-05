@@ -1,5 +1,6 @@
 Tudor Arghezi, Testament
 ===
+modernism: artă poetică
 
 * poezie **modernistă**
 * **artă poetică**

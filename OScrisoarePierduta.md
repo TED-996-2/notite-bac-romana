@@ -1,5 +1,6 @@
 Ion Luca Caragiale, O scrisoare pierdută
 ===
+comedie: de moravuri
 
 * **comedie** de moravuri
 

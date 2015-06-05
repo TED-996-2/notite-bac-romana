@@ -1,5 +1,6 @@
 Teorie literară
 ===
+teorie
 
 * **Roman**:
 	* dimensiuni mari

@@ -1,5 +1,6 @@
 Mihai Eminescu, Luceafărul
 ===
+romantism: poem
 
 * 1883
 * *poem* romantic

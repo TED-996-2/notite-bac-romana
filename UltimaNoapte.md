@@ -1,5 +1,6 @@
 Camil Petrescu, Ultima noapte de dragoste, întâia noapte de război
 ===
+roman: psihologic, subiectiv
 
 * roman **subiectiv**, analitic
 * roman realist-psihologic

@@ -1,5 +1,6 @@
 Mihail Sadoveanu, Baltagul
 ===
+roman: tradițional
 
 * roman **tradițional** = **doric** (vezi fișa Teorie literară)
 * roman realist, obiectiv

@@ -1,5 +1,6 @@
 Marin Sorescu, Iona
 ===
+dramă: postbelică
 
 * dramă postbelică
 

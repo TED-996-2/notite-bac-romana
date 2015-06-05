@@ -1,5 +1,6 @@
 Costache Negruzii, Alexandru Lăpușneanul
 ===
+nuvelă: romantică, istorică
 
 * nuvelă **romantică** + **istorică**
 

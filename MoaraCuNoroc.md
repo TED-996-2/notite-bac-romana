@@ -1,5 +1,6 @@
 Ioan Slavici, Moara cu noroc
 ===
+nuvelă: realistă, psihologică
 
 * nuvelă **realistă**, **psihologică**
 

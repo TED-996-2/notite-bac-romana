@@ -1,5 +1,6 @@
 Marin Preda, Moromeții
 ===
+roman: realist, postbelic
 
 * roman postbelic (1955, 1967)
 * roman realist **de factură modernă**

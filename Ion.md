@@ -1,5 +1,6 @@
 Liviu Rebreanu, Ion
 ===
+roman: realist, obiectiv
 
 * roman **realist** (redare veridică a realității), **obiectiv**
 * roman interbelic (1920)

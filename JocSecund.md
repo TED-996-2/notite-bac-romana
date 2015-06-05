@@ -1,5 +1,6 @@
 Ion Barbu, Joc secund
 ===
+modernism: ermetică
 
 * 1931
 * poezie modernistă

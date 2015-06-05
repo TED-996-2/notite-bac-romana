@@ -1,5 +1,6 @@
 Ion Creangă, Harap-Alb
 ===
+basm
 
 * basm **cult**
 
