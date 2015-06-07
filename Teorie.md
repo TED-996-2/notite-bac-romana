@@ -66,6 +66,11 @@ teorie
 	* spațiu + timp bine determinate
 	* personaje tipologice
 
+* **Tradiționalism**
+	* perioada interbelică (concomitent cu modernismul)
+	* contracararea modernismului
+	* păstrarea valorilor tradiționale + autohtone
+
 ---
 
 * **Funcțiile comunicării**:
