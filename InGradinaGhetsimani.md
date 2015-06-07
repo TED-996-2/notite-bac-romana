@@ -1,6 +1,6 @@
 Vasile Voiculescu, În grădina Ghetsimani
 ===
-tradiționalism
+tradiționalism 
 
 * poezie **tradiționalistă**
 
