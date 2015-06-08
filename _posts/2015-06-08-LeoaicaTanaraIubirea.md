@@ -63,7 +63,7 @@ title: Nichita Stănescu, Leoaica tânără, iubirea
 ### Strofe
 
 * **prima strofă**:
-	* întâlnirea cu iubirea = actul **brusc** al îngrăgostirii ("mi-a sărit în față")
+	* întâlnirea cu iubirea = actul **brusc** al îndrăgostirii ("mi-a sărit în față")
 		* perfect compus ⇒ eveniment **irepetabil**
 	* "colții albi" ⇒ **frumusețe** + **puritate** a iubirii
 	* "a înfipt" + "m-a mușcat" ⇒ **suferința** provocată de iubire
