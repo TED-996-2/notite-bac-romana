@@ -11,11 +11,11 @@ neomodernism
 > Colţii albi mi i-a înfipt în faţă,  
 > m-a muşcat leoaica, azi, de faţă.  
 >  
-> Şi deodata-n jurul meu, natura  
+> Şi deodată-n jurul meu, natura  
 > se făcu un cerc, de-a-dura,  
 > când mai larg, când mai aproape,  
 > ca o strângere de ape.  
-> Şi privirea-n sus ţişni,  
+> Şi privirea-n sus ţîşni,  
 > curcubeu tăiat în două,  
 > şi auzul o-ntâlni  
 > tocmai lângă ciocârlii.  
@@ -43,18 +43,21 @@ neomodernism
 		* miracol al existenței
 		* omul: adus într-o **stare de grație** ⇒ **metamorfozarea** prin iubire
 		* **inspirație** pentru ființa creatoare
+		* **cale a revelației**
 	* atribute: putere, forță, instinctualitate, sălbăticie, noblețe
-* sentiment redat în formă concretă (**zoomorf**)
+	* sentiment redat în formă concretă (**zoomorf**)
 
 ## Titlu
 
 * "leoaică tânără" = **definiția** stănesciană a iubirii
+	* ⇒ "leoaica" → **laitmotiv**
 * asocierile concret (animal sălbatic) - abstract (sentiment) ⇒ **anticipare** a atributelor iubirii
 
 ## Structură
 
 * 3 strofe inegale
 	* ⇒ **libertate formală** (trăsătură neomodernistă)
+* "leoaică tânără" - "leoaică arămie" ⇒ **simetrie** ⇒ **simbolul cercului** (≃ strofa a II-a - vezi Strofe)
 
 ### Strofe
 
@@ -70,6 +73,7 @@ neomodernism
 	* **metafora** "natura" ... "cerc de-a dura" + **epitete surprinzătoare** ("de-a dura", "mai larg", "mai aproape") + **motivul apei**
 		* ⇒ efectul iubirii asupra ființei îndrăgostite: trecerea în altă **dimensiune a existenței** ⇒ **reconfigurarea** lumii exterioare
 		* ființa îndrăgostită: în centrul unui univers **pulsatoriu** ("cerc de-a dura")
+		* cerc ⇒ **perfecțiune**
 	* **metafora** "curcubeu tăiat în două" ⇒ tendința de **spiritualizare** a iubirii
 		* ⇒ iubirea → **mijloc de cunoaștere** a universului (≃ Lucian Blaga)
 	* "privirea-n sus țâșni" + "auzul o-ntâlni" ⇒ **accentuarea simțurilor**
@@ -80,7 +84,7 @@ neomodernism
 	* imagini din natură: Stănescu, în "Logica ideilor vagi": "Literatura își are la origini încercarea de a acoperi zonele neînregistrate senzorial ale naturii"
 	* metafora centrală: "cerc" / "curcubeu"
 * **a treia strofă**:
-	* **metamorfoza** ființei după cea a naturii
+	* **metamorfoza ireversibilă** a ființei după cea a naturii
 	* "Mi-am dus mâna la sprânceană, la tâmplă și la bărbie / dar mâna nu le mai știe"
 		* **dematerializare** a ființei sub influența iubirii
 		* "mână": **instrument al cunoașterii** ⇒ **descoperirea** incompletitudinii ființei
@@ -91,7 +95,7 @@ neomodernism
 			* "bărbie": **comunicare**
 	* suprapunerea ființă - sentiment = îndrăgostit - "leoaică tânără"
 		* ⇒ omul → **ființă pur afectivă**
-		* încă o vreme / și-ncă o vreme" ⇒ **timp circular** ⇒ **scoatere** din timp fizic + **proiectare** în timp mitic (= circular)
+		* încă o vreme / și-ncă-o vreme" ⇒ **timp circular** ⇒ **scoatere** din timp fizic + **proiectare** în timp mitic (= circular) = **eternitate**
 	* **metafora centrală**: "leoaică arămie"
 
 ### Limbaj
@@ -101,4 +105,5 @@ neomodernism
 	* ⇒ stări intense ⇒ metamorfoză **ireversibilă** ("mâna [...] alunecă-n neștire")
 * utilizare intensă a **metaforei** ⇒ **ambiguitate**
 	* vezi Strofe, metaforele centrale
-* "leoaică tânără" - "leoaică arămie" ⇒ **simetrie** ⇒ **simbolul cercului** (≃ strofa a II-a - vezi Strofe)
+* prozodic: strofe inegale, vers liber, ingambament ⇒ **trăsături neomoderniste**
+* morfologic: **timpurile verbelor**: perfect compus → perfect simplu → prezent ⇒ **evoluția iubirii**
