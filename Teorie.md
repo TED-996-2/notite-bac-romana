@@ -71,6 +71,17 @@ teorie
 	* contracararea modernismului
 	* păstrarea valorilor tradiționale + autohtone
 
+* **Neomodernism**
+	* **deceniul 6** al secolului 20
+	* reacție la literatura *proletcultistă* a deceniului 5
+	* **redescoperire a lirismului** ⇒ **liricizarea** poeziei = recăpătarea subiectivității
+	* reconfigurarea temelor tradiționale: iubirea, timpul, condiția artistului + poeziei, cunoașterea
+	* *resemantizarea* miturilor
+	* limbaj: **asocieri inedite** + **limbaje noi**
+	* formal: ieșire din tipare
+		* structură externă **liberă**
+		* **ingambament**
+
 ---
 
 * **Funcțiile comunicării**:
