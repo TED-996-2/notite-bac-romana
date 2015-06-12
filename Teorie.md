@@ -66,6 +66,15 @@ teorie
 	* spațiu + timp bine determinate
 	* personaje tipologice
 
+* **Simbolism**:
+	* teme & motive: timpul, moartea, condiția poetului
+	* mijloace artistice:
+		* **simbolul** ( ⇐ **corespondențe** cu realitatea)
+		* ⇒ **sugestia**
+		* **muzicalitate** a discursului liric
+		* **repetiții**
+		* **cromatică**
+
 * **Tradiționalism**
 	* perioada interbelică (concomitent cu modernismul)
 	* contracararea modernismului
