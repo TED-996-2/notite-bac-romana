@@ -78,7 +78,7 @@ modernism: artă poetică
 		* "tainele" (prezentate simbolic):
 			* "flori" = frumusețea naturii + **sensibilitate** + **percepția senzorială** = **primele trepte** ale cunoașterii
 			* "ochi" = **cunoașterea contemplativă** + granița *eu* - *lume*
-			* "buze" = cunoașterea prin **cuvânt** ( = poezie) / **iubire**
+			* "buze" = cunoașterea prin **cuvânt** (= poezie) / **iubire**
 			* "morminte" = **legătura cu străbunii** + taina **morții**
 	* enumerarea "tainelor" ⇒ amplificarea misterului ființei umane
 * **a doua secvență**:
@@ -121,8 +121,8 @@ modernism: artă poetică
 ## Elemente moderniste
 
 * **subiectivitatea** discursului liric
-* **ambiguitate** ( ⇐ metafore)
-* **reflexivitate** ( ⇐ abundența verbelor și pronumelor la persoana I)
+* **ambiguitate** (⇐ metafore)
+* **reflexivitate** (⇐ abundența verbelor și pronumelor la persoana I)
 * tema **cunoașterii**
 * **intelectualizarea emoției**
 * influențele **expresioniste**

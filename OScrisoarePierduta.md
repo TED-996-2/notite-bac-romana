@@ -25,7 +25,7 @@ comedie: de moravuri
 * *structură nominală*
 * *martorul* unei relații particulare → subiect de interes public
 * = instrument de șantaj
-* "o scrisoare" (articol nehotărât) ⇒ întâmplare banală + nedeterminare ( = repetabilitate)
+* "o scrisoare" (articol nehotărât) ⇒ întâmplare banală + nedeterminare (= repetabilitate)
 * scrisoarea ≃ personaj al piesei (Pompiliu Constantinescu)
 
 ## Structură

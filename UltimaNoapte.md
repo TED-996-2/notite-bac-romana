@@ -18,7 +18,7 @@ roman: psihologic, subiectiv
 * ⇒ principiul autenticității (C. Petrescu: "din mine însumi nu pot ieși")
 * **Geneza**: experiența pe front al lui Camil Petrescu (sublocotenent în WW1)
 	* jurnal de campanie "împrumutat cu amănunte cu tot eroului"
-	* problematica războiului ( + volum de poezii **Ciclul morții**)
+	* problematica războiului (+ volum de poezii **Ciclul morții**)
 
 ## Tema
 

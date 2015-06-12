@@ -59,7 +59,7 @@ modernism: ermetică
 	* ⇒ actul poetic: reflectare, dematerializare, sintetizare
 	* sintetizare ⇒ asociere cu Hermes (ipostază intelectuală)
 2. a doua strofă
-	* poezia = "nadir latent" ( = imagine purificată)
+	* poezia = "nadir latent" (= imagine purificată)
 	* "harfe" ⇒ asocierea cu Orfeu (cântecul)
 	* poezie ⇔ cântec
 		* transformare în limbaj propriu + muzicalitate

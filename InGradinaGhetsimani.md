@@ -69,7 +69,7 @@ tradiționalism
 		* ⇒ **durere** + **suferință** dincolo de limitele umanului
 	* scenă alegorică + efect puternic vizual ⇒ *ritualul ispitei* + **persistența umanului în fața morții**
 	* "Bătându-se cu moartea, uitase de viață"
-		* ⇒ acceptarea destinului ( = morții)
+		* ⇒ acceptarea destinului (= morții)
 		* ⇒ părăsirea condiției umane ⇒ recuperearea esenței divine
 		* scop: **amplificarea** suferinței + tensiunii lirice
 	* **antiteze**: "veninul groaznic" vs. "dulceața"; "sete uriașă" vs. "nu voia să atingă infama băutură"; "moarte" vs. "viață"

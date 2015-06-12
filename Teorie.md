@@ -69,7 +69,7 @@ teorie
 * **Simbolism**:
 	* teme & motive: timpul, moartea, condiția poetului
 	* mijloace artistice:
-		* **simbolul** ( ⇐ **corespondențe** cu realitatea)
+		* **simbolul** (⇐ **corespondențe** cu realitatea)
 		* ⇒ **sugestia**
 		* **muzicalitate** a discursului liric
 		* **repetiții**

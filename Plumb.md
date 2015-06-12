@@ -21,7 +21,7 @@ simbolism
 * operă **simbolistă**
 	* curent apărut în Franța, la sfârșitul secolului 19 (manifest: Jean Moréas, "Le Symbolisme")
 	* Bacovia: faza târzie a simbolismului, cu deschideri moderniste
-* specie: **elegie** ( ⇐ sentimentul de tristețe + spaima de moarte)
+* specie: **elegie** (⇐ sentimentul de tristețe + spaima de moarte)
 * la începutul volumului "Plumb" (1916) ⇒ **text programatic**
 * lirica lui Bacovia:
 	* motivul **singurătății apăsătoare**
@@ -33,7 +33,7 @@ simbolism
 	* izolat într-o societate artificială, fără aspirații
 	* \+ "stam singur" repetat de 2 ori
 	* ⇒ **singurătate**, izolare, **spaima de moarte**, angoasă, *spleen* (melancolie + plictiseală + dezgust față de orice), *tragic existențial*, disperare, inadaptare
-* **iubirea** pierdută ( = *moartă*)
+* **iubirea** pierdută (= *moartă*)
 * viziune: **sumbră**, **tragică**; lumea = **cimitir**, fără speranță de salvare
 * eu liric: solitar, **prizonier**, înspăimântat de sine, de neant și de lume
 	* "stam singur" ⇒ **singurătate**
@@ -73,7 +73,7 @@ simbolism
 	* intruziunea "plumbului" în **lumea interioară** ⇒ **plan interior**
 	* dominantă: **moartea amorului** ⇒ **tragic existențial** + **angoasă** + **singurătate** ⇒ "am început să-l strig"
 	* metafora "aripile de plumb" ⇒ **imposibilitatea salvării**
-	* ipostaza eului liric: **damnat** ( ⇐ **imposibilitatea comunicării**)
+	* ipostaza eului liric: **damnat** (⇐ **imposibilitatea comunicării**)
 
 ### Limbaj
 
@@ -100,6 +100,6 @@ simbolism
 ## Elemente simboliste
 
 * tema + motivele
-* simboluri ( ⇐ corespondențe) ⇒ **sugestie**
+* simboluri (⇐ corespondențe) ⇒ **sugestie**
 * decor + cromatică
 * tehnica repetițiilor + aliterații ⇒ **muzicalitate**
