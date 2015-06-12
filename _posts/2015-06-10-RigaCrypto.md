@@ -94,7 +94,7 @@ title: Ion Barbu, Riga Crypto și lapona Enigel
 		* Soarele = "greu taler scump, cu margini verzi / de aur" ⇒ **valoarea** cunoașterii absolute pentru ființa superioară ("taler", "scump", "aur")
 		* Soarele = "roata albă" ⇒ **simbolul cercului** ⇒ **închiderea lumii** rigăi Crypto, fără **aspirația la cunoașterea absolută** + **închiderea poveștii** în ramă
 		* Soarele = "soarele-nțelept" (epitet inedit) ⇒ soarele = **sursă a cunoașterii absolute**
-	* **opoziția lumină vs. întuneric** ( = soare vs. umbră) ⇒ fixarea personajelor simbolice în lumile lor
+	* **opoziția lumină vs. întuneric** (= soare vs. umbră) ⇒ fixarea personajelor simbolice în lumile lor
 		* spiritul în perpetuă căutare: "roata se mărește" vs. materia stagnantă: "la umbră numai carnea crește"
 * ultima secvență: **finalul baladei**
 	* "timpul, vezi, nu adăsta" ⇒ ființa umană: pe un drum al devenirii **ireversibil**
