@@ -93,7 +93,7 @@ modernism: artă poetică
 ## Structură
 
 * 5 strofe
-* **monolog** adresat **fiului** (simbol ar urmașilor)
+* **monolog** adresat **fiului** (simbol al urmașilor)
 * prezentarea problematicii **legăturii dintre generații* + responsabilității urmașilor față de mesajul transmis de străbuni
 * prozodic: strofe inegale, măsură + ritm variabile, rimă împerecheată
 
