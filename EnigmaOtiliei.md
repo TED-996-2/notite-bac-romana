@@ -96,7 +96,7 @@ roman: realist-balzacian
 	* studiul rămâne o pasiune superioară iubirii ⇒ la sfârșitul acesteia, Felix își domină suferința și deziluzia
 * ipostaza finală: personaj matur în urma experiențelor
 	* înțelege vulnerabilitatea iubirii față de degradarea lumii
-	* se căsătorește în mod *strălcit* + devine o personalitate în lumea medicală
+	* se căsătorește în mod *strălucit* + devine o personalitate în lumea medicală
 
 ### Otilia
 
