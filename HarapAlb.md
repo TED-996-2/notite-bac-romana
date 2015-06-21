@@ -29,15 +29,16 @@ basm
 * formule inițiale:
 	* pregătire a cititorului pentru intrarea în universul literar
 	* proiectarea acțiunii în timpul fabulos (= *illo tempore*, timp nedeterminat)
+	* în operă: "Amu cică era odată"
 * formule mediane
 	* ⇒ cursivitate narativă + suspans
 	* relația narator - cititor
-	* "Dumnezeu să ne ție, căci cuvântul din poveste înainte mult mai este"
+	* în operă: "Dumnezeu să ne ție, căci cuvântul din poveste înainte mult mai este"
 		* 6 apariții ⇒ 7 părți
 		* ⇒ grijă pentru compoziție
 * formule finale
 	* scoatere a citiorului din lumea ficțională + readucerea la real
-	* "iar pe la noi, cine are mănâncă și bea, iar cine nu, se uită și rabdă"
+	* în operă: "iar pe la noi, cine are mănâncă și bea, iar cine nu, se uită și rabdă"
 		* ⇒ umor + coborârea la real
 * ⇒ **relație incipit-final**: **simetrie**
 
@@ -56,9 +57,7 @@ basm
 
 ### Motive narative
 
-* împăratul fără urmaș
-* superioritatea mezinului (scene: pielea de urs, podul, Sf. Duminică)
-* motive narative tipice:
+* **tipice**:
 	* împăratul fără urmași (împăratul Verde)
 	* superioritatea mezinului (pielea de urs, podul, Sf. Duminică)
 	* călătoria (pădurea, fântâna)
@@ -80,7 +79,6 @@ basm
 	* trecut nedeterminat
 	* mitic, fabulos
 	* timp al originilor
-* narațiune + dialog
 
 ### Conflict
 
@@ -94,9 +92,10 @@ basm
 * omniscient, extradiegetic
 * în tranziții: implicat, cu adresări directe către cititor
 	* "Ce-mi pasă mie? Eu sunt dator să spun povestea"
-		* ⇒ temporar, creditabil → necreditabil
+		* ⇒ negare temporară a creditabilității
 	* opinii
 	* comentarii etice, psihologice, grave / ironice
+* moduri de expunere: narațiune + dialog
 
 ### Stil
 
@@ -111,7 +110,7 @@ basm
 	* caracterizări pitoreșți (ex: Gerilă, Ochilă)
 	* nume + porecle (ex: Buzilă, țapul cel roș)
 	* diminutive cu sens augumentativ (ex: "buzișoare" -Gerilă-, "băuturică" -Setilă-)
-	* zeflemizire (ex: "Tare-mi eșți drag! Te-aș băga în sân, dar nu încapi de urechi")
+	* zeflemisire (ex: "Tare-mi eșți drag! Te-aș băga în sân, dar nu încapi de urechi")
 	* expresii mucalite (ex: "Să trăiască trei zile cu cea de alaltăieri!")
 	* ironie (ex: "Doar unu-i Împăratul Roș, vestit prin meleagurile aceste pentru bunătatea lui cea nemaipomenită și milostivirea lui cea neauzită")
 
@@ -123,7 +122,7 @@ basm
 	* răufăcătorul (Spânul)
 	* trimițătorul (Sf. Duminică + tatăl)
 	* donatorul (Sf. Duminică ± tatăl)
-	* ajutorul (calul, *ajutorul universal)
+	* ajutorul (calul, *ajutorul universal*)
 	* fata de împărat și tatăl acesteia (Împăratul Roș și fata sa)
 * pozitive / negative
 * reale / fabuloase (= ființe himerice)
