@@ -38,7 +38,7 @@ title: Costache Negruzii, Alexandru Lăpușneanul
 * 4 capitole
 	* precedate de un motto
 	* trecerea de la un capitol al altul
-		* accelerare a ritumului acțiunii
+		* accelerare a ritmului acțiunii
 		* ⇒ continuitate + anticipare
 		* ⇒ amplificare a antitezelor
 	* simetrie între capitolele I - IV + II - III
