@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Costache Negruzii, Alexandru Lăpușneanul
+title: Costache Negruzzi, Alexandru Lăpușneanul
 ---
 
 * nuvelă **romantică** + **istorică**
