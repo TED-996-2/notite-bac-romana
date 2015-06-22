@@ -44,7 +44,7 @@ title: Costache Negruzzi, Alexandru Lăpușneanul
 	* simetrie între capitolele I - IV + II - III
 		* ⇒ simbolul cercurilor concentrice
 		* ⇒ lume închisă
-* maximă concentrare narativă ⇐ tehnica scenei + spații închise
+* tehnica scenei + spații închise ⇒ **maximă concentrare narativă**
 
 ### Relația incipit-final
 
@@ -69,7 +69,7 @@ title: Costache Negruzzi, Alexandru Lăpușneanul
 ### Conflicte
 
 * concentrat, **gradat**, complex ⇒ ≃ textul dramatic
-* **conflict principal**: **social**: lupta pentru putere
+* **conflict principal**: **social** (lupta pentru putere)
 	* domnitor vs. boieri
 	* Moldova secolului 16, la încercarea tranziției de la oligarhia boierească la autoritatea centrală
 * conflict secundar: Lăpușneanul vs. Moțoc; capitolul 1 → capitolul 3
@@ -79,7 +79,7 @@ title: Costache Negruzzi, Alexandru Lăpușneanul
 
 * **narațiune** (*evocativă*)
 * dialog, monolog ⇒ **dramatizare** a narațiunii + caracterizare de personaje
-* \+ descriere: vestimentație, personaje, ceremonii
+* \+ **descriere**: vestimentație, personaje, ceremonii
 	* ± incluse in *pauze descriptive* (descrieri statice, introduse în narațiune) ⇒ **suspans**
 		* ex: portretul doamnei Ruxanda
 	* ± funcție **anticipativă**
