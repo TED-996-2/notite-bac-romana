@@ -1,4 +1,4 @@
-Costache Negruzii, Alexandru Lăpușneanul
+Costache Negruzzi, Alexandru Lăpușneanul
 ===
 nuvelă: romantică, istorică
 
