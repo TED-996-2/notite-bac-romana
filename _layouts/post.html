@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign minutes = content | number_of_words | divided_by: 120 %}
+{% assign minutes = content | number_of_words | divided_by: 50 %}
 {% if minutes == 0 %}
 {% assign minutes = 1 %}
 {% endif %}
