@@ -210,7 +210,7 @@ roman: realist, postbelic
 		* închidere în sine
 		* refuzul de a accepta realitatea
 		* afirmarea independenței (răspunsul din final)
-* mijloace caracterizare:
+* mijloace de caracterizare:
 	* directă:
 		* narator: preocupare pentru notarea **stărilor** ("era tăcut", "era vesel", "era tulburat")
 	* indirectă: **mijloace moderne**
