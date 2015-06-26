@@ -84,7 +84,7 @@ title: Ioan Slavici, Moara cu noroc
 * **descrierea** (capitolul 2):
 	* configurează cadrul acțiunii
 	* **funcție simbolică** ⇒ anticipare a evoluției personajului
-	* **metafora drumului** → **destinul** sinuos
+	* **metafora drumului** ⇒ **destinul** sinuos
 	* detalii premonitorii: *copacul pe jumătate ars*, *corbii* croncănind ⇒ prevestirea finalului dramatic
 	* ⇒ **tehnica detaliului semnificativ**
 		* N. Manolescu: "teroarea semnificativului în proza realistă"
@@ -103,7 +103,7 @@ title: Ioan Slavici, Moara cu noroc
 ### Stil
 
 * sobru, concis
-* **registre stilistice**: regional, ardelenesc, popular, oral
+* **registre stilistice**: regional (ardelenesc), popular, oral
 
 ## Personaje
 
@@ -156,6 +156,7 @@ title: Ioan Slavici, Moara cu noroc
 * personaj dinamic ⇐ abilitatea lui Slavici de a surprinde *psihologia feminină* (≃ **Mara**, **Pădureanca**)
 * portret fizic:
 	* "Ana era tânără și frumoasă, Ana era fragedă și subțirică, Ana era sprintenă și mlădioasă"
+	* "Ana îmi părea prea tânără, prea așezată, oarecum prea blândă la fire"
 	* ⇒ frumusețe + fragilitate
 		* accentuate de adverbul "prea"
 	* ideal de feminitate

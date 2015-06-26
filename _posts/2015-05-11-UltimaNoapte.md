@@ -154,7 +154,7 @@ title: Camil Petrescu, Ultima noapte de dragoste, întâia noapte de război
 	* realitatea: lume a falselor aparențe (ex: Tănase Vasilescu Lumânăraru: anaflabet, dar norocos)
 * modalități de caracterizare:
 	* indirect:
-		* fapte, gânduri, limbaj, gesturi, atitudini, relații cu alte pers
+		* fapte, gânduri, limbaj, gesturi, atitudini, relații cu alte personaje
 		* \+ **autocaracterizare**: "eram ca un om fără globule roșii"
 		* \+ procedee moderne: *autoanaliză lucidă*, introspecție, monolog interior, *fluxul conștiinței*
 		* ⇒ ⇒ analizare lucidă a planurilor interior + exterior

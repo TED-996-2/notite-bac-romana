@@ -87,7 +87,7 @@ title: Marin Preda, Moromeții
 	* ⇐ a doua căsătorie a lui Moromete
 	* amplificat de Guica
 	* ⇒ planul fiilor de a pleca cu oile & caii pentru a-și asigura un trai la București
-	* ⇒ plecarea lui Achim la București cu oile + (mai târziu) fuga lui Nilă și Parashiv cu caii și o parte din zestre
+	* ⇒ plecarea lui Achim la București cu oile + (mai târziu) fuga lui Nilă și Paraschiv cu caii și o parte din zestre
 * Moromete - Catrina
 	* ⇐ vânzarea pogonului de pământ + amânarea trecerii casei pe numele ei (din cauza fiilor)
 	* Catrina simte "cum i se strecoară în inimă nepăsarea și sila de bărbat și de copii"
