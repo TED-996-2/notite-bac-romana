@@ -58,7 +58,6 @@ comedie: de moravuri
 
 * element important în operele dramatice
 * conflicte derizorii (**trăsătură a comediei**), exterioare
-* construcție: **contrastul dintre aparență și esență**
 * **conflict principal**: Trahanache + Tipătescu + Zoe vs. Cațavencu
 	* creștere treptată = **tehnica bulgărelui de zăpadă**
 		* dezvăluire parțială a conflictului → apariția lui Cațavencu → apariția lui Dandanache
@@ -154,7 +153,7 @@ comedie: de moravuri
 
 ## Încadrări
 
-* operă **dramatică*:
+* operă **dramatică**:
 	* operă destinată reprezentării scenice
 	* didascalii + didascalia inițială
 	* timp + spațiu concentrate
