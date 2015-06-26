@@ -8,7 +8,7 @@ title: George Călinescu, Enigma Otiliei
 
 ## Contextualizare
 
-* urmează formula realist-tradițională într-o epocă dominată de proza modernă analitică: (Călinescu: "Realismul și balzacianismul reprezintă un mod de a crea etern și durabil" ⇔ literatura trebuie să redea **viața**)
+* urmează formula realist-tradițională într-o epocă dominată de proza modernă analitică: (Călinescu: "Realismul și balzacianismul reprezintă un mod de a crea esențial și durabil" ⇔ literatura trebuie să redea **viața**)
 * un roman *de critic* ⇒ raportare polemică la societate (N. Manolescu: "un balzacianism fără Balzac, un balzacianism redescoperit polemic")
 
 ## Tema
@@ -44,7 +44,7 @@ title: George Călinescu, Enigma Otiliei
 	  ⇒ imaginea societății bucureștene
 	* "cu ajutorul străzilor, caselor, mobilelor, cunoaștem oamenii"
 	  ⇒ reconstituirea departe → aproape; afară → înăuntru
-* redescompunere **polemică** a balzacianismului ⇒ "balzacianism fără Balzac"
+* redescoperire **polemică** a balzacianismului ⇒ "balzacianism fără Balzac"
 	* polemică ⇐ caracteristica critică a autorului
 
 ### Final
