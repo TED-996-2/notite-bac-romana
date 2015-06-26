@@ -230,7 +230,8 @@ roman: realist, postbelic
 
 * dimensiune profund psihologică a prozei țărănești - "conștiința, așa cum este, e suficient de complexă"
 * valorifică complexitatea naturii umane
-* erou reflexiv, nu activ
+* \+ destinul individual în raport cu istoria
+* țăran redimensionat modern: reflexiv, contemplativ, filozofic
 * acțiune plurivocă = din mai multe perspective
-* narator original
+* narator original (limitarea omniscienței + libertatea de exprimare a personajelor)
 * tehnici narative moderne - alternarea monolog interior ↔ vorbire indirectă liberă, tehnicile scenei, a rezumatului (fapte + gânduri), a anticipării

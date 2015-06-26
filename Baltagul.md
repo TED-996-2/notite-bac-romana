@@ -66,7 +66,7 @@ roman: tradițional
 				* Lipan → 2 ciobani: 100 oi
 					* indicii despre cei doi: unul slab, negru; celălalt cu buza despicată
 		* continuare: Sabasa → sat Crucea Talienilor → Suha
-			* găsirea lui Lipan mort sub un pod
+			* găsirea lui Lipan mort într-o râpă
 	3. descoperirea + pedepsirea făptașilor
 		* nucleu **dramatic**
 		* reconstrucția crimei

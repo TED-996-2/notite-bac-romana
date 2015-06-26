@@ -7,6 +7,7 @@ basm
 ## Contextualizare
 
 * publicat în "Convorbiri literare", 1877
+* predominant fabulos ⇒ basm **fantastic** (3 categorii: fantastic, nuvelistic, animalier)
 
 ## Tema
 

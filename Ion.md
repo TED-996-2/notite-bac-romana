@@ -172,6 +172,10 @@ roman: realist, obiectiv
 	* indirectă: fapte, atitudini, comportament, relații, gesturi, vestimentație, limbaj
 * tehnici moderne: *analiză psihologică*, *monolog interior*, *pluriperspectivism*
 * moartea ⇒ **intenție moralizatoare**
+* critică literară:
+	* Călinescu: "brută ingenuă, violent și pătimaș"
+	* Lovinescu: "inteligență și viclenie procedurală"
+	* Manolescu: "victimă măreață a fatalității biologice"
 
 ### ⇒ Încadrări
 
