@@ -55,7 +55,7 @@ title: Nichita Stănescu, Lecția despre cub
 	* versul inițial: **simbolul pietrei** = **materie primă**, preexistentă creației, **la îndemâna oricui**
 		* "piatră" ⇒ (≃ Arghezi) **efort** necesar + **eternitatea** produsului obținut
 	* verbe la prezent ("se ia", "se cioplește", "se lustruiește", "se răzuiește") ⇒ **momentele** procesului de creație ⇒ ≃ **muncă fizică**
-	* "daltă de sânge" → "ochiul lui Homer" → "raze" ⇒ proces de **cizelare** progresivă, până la finețe ⇒ poezia = **realitate abstractă** = ** *produs spiritualizat* **
+	* "daltă de sânge" → "ochiul lui Homer" → "raze" ⇒ proces de **cizelare** progresivă, până la finețe ⇒ poezia = **realitate abstractă** = **produs spiritualizat**
 	* repetarea "după aceea" (2 ori) ⇒ **etapele creației**
 	* → "se sărută de nenumărate ori cubul / cu gura ta, cu gura altora / și mai ales cu gura infantei" ⇒ 	**însuflețirea** operei prin **sentimente** (creatorul + cei din jur)
 		* ≃ *mitul lui Pygmalion* - opera "*Galateea*"

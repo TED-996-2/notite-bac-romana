@@ -95,14 +95,14 @@ title: Tudor Arghezi, Testament
 
 * 5 strofe
 * **monolog** adresat **fiului** (simbol al urmașilor)
-* prezentarea problematicii **legăturii dintre generații* + responsabilității urmașilor față de mesajul transmis de străbuni
+* prezentarea problematicii **legăturii dintre generații** + responsabilității urmașilor față de mesajul transmis de străbuni
 * prozodic: strofe inegale, măsură + ritm variabile, rimă împerecheată
 
 ### Strofe
 
 * **primele două strofe**: în jurul cuvântului **carte**
 	* transformarea + transmiterea experienței străbunilor ⇒ **legătura dintre generații**
-	* \+ metaforele "Cartea mea-i, fiule, o **treaptă**", "Ea e **hrisovul** vostru cel dintâi**" ⇒ ⇒ **evoluția spirituală** a urmașilor
+	* \+ metaforele "Cartea mea-i, fiule, o **treaptă**", "Ea e **hrisovul vostru cel dintâi**" ⇒ ⇒ **evoluția spirituală** a urmașilor
 	* ⇒ opera = **moștenire** lăsată urmașilor
 	* relația autor - cititor: "fiule", "așaz-o" ⇒ **adresare directă** + ton cald, familiar ⇒ **apropiere afectivă**
 * **următoarele 2 strofe**:
