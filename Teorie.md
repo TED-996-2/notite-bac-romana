@@ -40,7 +40,7 @@ teorie
 		* ⇒ dramatism + dinamism
 		* ⇒ caracterizare de personaje
 		* ⇒ **autenticitate**
-		* \+ monolog (discursuri / *aparté*
+		* \+ monolog (discursuri / *aparté*)
 	* împărțire: acte + scene + replici
 
 * **Comedie**:
