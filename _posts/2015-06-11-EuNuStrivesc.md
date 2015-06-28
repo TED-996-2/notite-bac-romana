@@ -98,7 +98,7 @@ title: Lucian Blaga, Eu nu strivesc corola de minuni a lumii
 	* "taină", "întunecata zare", "ne-nțeles" = metafore ale **misterului**
 		* \+ epitetul "sfânt mister" ⇒ atitudinea poetului
 	* actul de creație = **revelarea** tainelor existențiale ⇒ îmbogățirea misterelor ființei ("sporesc a lumii taină" ⇒ "tot ce-i neînțeles / se schimbă-n ne-nțelesuri și mai mari")
-* **ultima secvență": ultimele 2 versuri
+* **ultima secvență**: ultimele 2 versuri
 	* "căci" ⇒ **concluzie**
 	* "iubesc" = cunoaștere prin **participare** la misterul universal
 	* enumerația din final: relație cu cea din prima secvență ⇒ **simetrie**
