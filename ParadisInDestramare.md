@@ -88,7 +88,7 @@ modernism
 ## Eul liric
 
 * 2 ipostaze:
-	1. experiența de cunoaștere: lirism **obiectiv** ⇒ **generalizarea** percepției individuale → **criză *ontologică* ** (a umanității)
+	1. experiența de cunoaștere: lirism **obiectiv** ⇒ **generalizarea** percepției individuale → **criză ontologică** (a umanității)
 		* **martor** al destrămării ⇒ **deznădedje**
 	2. final: "vai mie, vai ție" ⇒ recăpătarea subiectivității
 		* \+ "vai" + pronume la persoanele I și II ⇒ **disperare** + **neputință** ⇒ criza iminentă → fapt concret
