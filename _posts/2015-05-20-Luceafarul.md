@@ -91,7 +91,7 @@ title: Mihai Eminescu, Luceafărul
 2. tabloul al doilea
 	* **idila** Cătălin - Cătălina (fata de împărat)
 	* dragoste comună, lumească, instinctuală
-	* **elegia** Cătălinei pentru Luceafăr
+	* **elegia** (nostalgia dragostei imposibile)
 	* pledoaria lui Cătălin:
 		> -Tu ești copilă, asta e...  
 		> Hai ș-om fugi în lume.  
@@ -119,7 +119,7 @@ title: Mihai Eminescu, Luceafărul
 			> Și nu cunoaștem moarte
 		* ⇒ moartea Luceafărului ⇔ negarea oridinii universale ⇒ refuzată
 	* **plan**: universal-cosmic
-	* **registrul stilistic**: cult; ton solemn + exprimare **gnomică** (sentințe, maxime, percepte)
+	* **registrul stilistic**: cult; ton solemn + exprimare **gnomică** (sentințe, maxime, precepte)
 4. tabloul al patrulea
 	* restaurarea ordinii cosmice: întoarcerea Luceafărului "în locul lui menit din cer"
 	* **pastel** al cadrului terestru - comun în literatura eminseciană de dragoste
