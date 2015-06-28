@@ -84,7 +84,7 @@ title: Tudor Arghezi, Flori de mucigai
 		* metafora "unghia îngerească" = **inspirația divină pierdută**
 		* mediu ostil ⇒ **imposibilitatea de recuperare** a inspirației
 * **ultima secvență**:
-	* "mă durea mâna ca o ghiară" (> nevoia poetului de a scrie ⇒ găsirea unei **soluții** în absența inspirației divine
+	* "mă durea mâna ca o ghiară" (⇒ nevoia poetului de a scrie ⇒ găsirea unei **soluții** în absența inspirației divine
 		* efort suprauman, epuizant, dar necesar ("neputincioasă să se strângă")
 		* "mă durea": **imperfect** ⇒ caracter **durativ** al durerii ⇒ **amenințarea confortului spiritual** 
 	* "m-am silit să scriu cu unghiile de la mâna stângă" ⇒ asocierea cu **demonicul**
@@ -107,6 +107,6 @@ title: Tudor Arghezi, Flori de mucigai
 	* ⇒ **estetica urâtului** (trăsătură modernistă)
 	* \+ regional + popular: "părete", "mucigai"
 * sintactic: **dizlocări topice** (specifice lui Arghezi): "sau nu o am mai cunoscut"
-	* ⇒ **schimbare** a ordinii cunoscute = **viziune *întoarsă* ** asupra actului de creație
+	* ⇒ **schimbare** a ordinii cunoscute = **viziune întoarsă** asupra actului de creație
 * prozodic: **ingambament**: "Care au lucrat împrejurul / Lui Luca, Marcu și Ioan"
 	* ⇒ **continuitate** + **flux interior** al gândirii + **intensificarea trăirilor**
