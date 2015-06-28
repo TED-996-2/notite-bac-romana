@@ -57,7 +57,7 @@ dramă: postbelică
 	* simboluri:
 		* acvariul plin cu pești → provocarea destinului, încercarea de a-l schimba
 		* moara de vânt → zădărnicia eforturilor omenești (≃ Don Quijote) + trecerea timpului
-* dialog cu sine însuși (*solocviu*) ⇒ sugestia comunicării cu un *alter ego*
+* dialog cu sine însuși (*solilocviu*) ⇒ sugestia comunicării cu un *alter ego*
 * formă ⇒ **închidere** (⇔ moarte)
 
 ### Acțiune
@@ -140,11 +140,11 @@ dramă: postbelică
 * **dialog** cu sine însuși ("ca orice om foarte singur, Iona vorbește tare cu sine însuși")
 	* folosirea liniei de dialog
 	* sugerare a relației emițător - receptor
-	* personaj cu mai multe stări + trecerea rapidă între ele
+	* personaj cu mai multe stări + trecerea rapidă de la o stare la alta
 	* existența mai multor ipostaze în același personaj: pescar, țăran, filozof / poet
 * alternanță grav ↔ ludic = tragic ↔ comic
 	* **ironie**
-	* ⇒ contracararea tragicului cu comicul
+	* ⇒ contracararea tragicului prin comic
 	* ⇒ **modernitate**
 
 ## Personaje
@@ -174,5 +174,5 @@ dramă: postbelică
 		* revoltă continuă împotriva destinului ("Drumul, el a greșit-o. Trebuia să o ia în partea cealaltă")
 		* revelația finală: "problema e dacă mai reușești să ieși din ea o dată ce te-ai născut" ⇒ motivarea sinuciderii
 * mijloace caracterizare
-	* indirectă: acțiuni, limbaj, dialog
-	* directă: autor, în didascalii
+	* indirectă: **limbaj** (+ dialog), acțîuni
+	* directă: autor, în didascalii (stări: "năucit", "derutat" + trecerea între ele)

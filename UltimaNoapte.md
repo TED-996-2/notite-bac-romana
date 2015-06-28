@@ -9,6 +9,7 @@ roman: psihologic, subiectiv
 	* rural → urban
 	* problematica țărănească → viața interioară a intelectualului
 	* narator subiectiv, intradiegetic
+* roman **al experienței**
 * roman interbelic (1930)
 
 ## Contextualizare

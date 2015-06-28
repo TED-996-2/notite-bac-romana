@@ -53,7 +53,7 @@ simbolism
 
 ## Structură
 
-* **2 catrene** pe **2 planuri**: exterior + interior
+* **2 catrene** pe **2 planuri**: exterior + interior (+ **corespondențe** între ele)
 * **tehnica repetițiilor**: **plumb**, de 6 ori, în poziții simetrice; + "dormea", "stam singur"
 * **paralelism sintatic** = structură sintactică asemănătoare
 * ⇒ **simetrie** între strofe

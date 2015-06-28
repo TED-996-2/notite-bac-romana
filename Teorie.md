@@ -35,7 +35,7 @@ teorie
 		* emițător = **autor**
 	* timp + spațiu: concentrate
 	* număr relativ mic de personaje
-	* mediu de expunere: dialogul
+	* mod de expunere: dialogul
 		* ⇒ verbalizarea acțiunii
 		* ⇒ dramatism + dinamism
 		* ⇒ caracterizare de personaje
@@ -53,7 +53,7 @@ teorie
 
 * **Romantism**:
 	* reacție împotriva **rigorii clasicismului**
-	* primatul **sentimentului** și a fanteziei creatoare = **libertate**
+	* primatul **sentimentului** și al fanteziei creatoare = **libertate**
 	* **subiectivitate**
 	* **individualitatea creatoare**
 	* mister + excepțional

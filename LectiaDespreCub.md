@@ -56,9 +56,9 @@ neomodernism
 	* verbe la prezent ("se ia", "se cioplește", "se lustruiește", "se răzuiește") ⇒ **momentele** procesului de creație ⇒ ≃ **muncă fizică**
 	* "daltă de sânge" → "ochiul lui Homer" → "raze" ⇒ proces de **cizelare** progresivă, până la finețe ⇒ poezia = **realitate abstractă** = ** *produs spiritualizat* **
 	* repetarea "după aceea" (2 ori) ⇒ **etapele creației**
-	* → "se sărută de nenumărate ori cubul / cu gura ta, cu gura altora / și mai ales cu gura infantei" ⇒ **primirea** de către operă a **sentimentelor**
+	* → "se sărută de nenumărate ori cubul / cu gura ta, cu gura altora / și mai ales cu gura infantei" ⇒ 	**însuflețirea** operei prin **sentimente** (creatorul + cei din jur)
 		* ≃ *mitul lui Pygmalion* - opera "*Galateea*"
-		* **repetiția** "gura" + enumerația ("gura ta" = artistul; "gura altora" = receptorul; "gura infantei" = nobilitate, frumusețe, puritate + **muza**) ⇒ **sursele sensibilității** unei opere
+		* **repetiția** "gura" + enumerația ("gura ta" = artistul; "gura altora" = receptorul; "gura infantei" = noblețe, frumusețe, puritate + **muza**) ⇒ **sursele sensibilității** unei opere
 	* → "se ia un ciocan şi brusc se fărâmă un colţ de-al cubului" ⇒ trecere bruscă **sensibilitate**, **estetic** → **creație prin destructurare**
 		* ipostaza creatorului modern: distrugere brutală al unui "colț de-al cubului" ⇒ **perfecțiune** prin **imperfecțiune**
 		* \+ **materialitatea** finală a poeziei
@@ -66,3 +66,7 @@ neomodernism
 	* raportul acțiune a creatorului - reacție a receptorilor
 	* "toţi, dar absolut toţi", ⇒ contrast **viziune originală** vs. **gust comun**
 	* ⇒ **ironizare** a gustului canonic (= părerea majorității) + goanei după perfecțiune (Ștefania Mincu: "acest apetit estetic pentru ceea ce aste cioplit, lustruit [...] perfect neștirbit")
+
+### Limbaj poetic
+
+* metafore surprinzătoare (element modernist)

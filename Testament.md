@@ -129,7 +129,7 @@ modernism: artă poetică
 ### Mijloace artistice
 
 * **estetica urâtului**
-	* ⇒ sublinierea **suferinței**
+	* ⇒ *sublimarea* **suferinței**
 * figuri de stil:
 	* **metafore** inedite:
 		* în special ale poeziei: "hrisovul cel dintâi", "cuvinte potrivite" "Dumnezeu de piatră", "slovă făurită"
